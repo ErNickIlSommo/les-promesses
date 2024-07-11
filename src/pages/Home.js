@@ -63,7 +63,7 @@ const Home = () => {
                     <p className="text-4xl md:text-7xl pb-2 font-medium">PER CONOSCERCI.</p>
                     {/* <p className="text-4xl md:text-7xl uppercase">Conosciamoci.</p> */}
                     <p className="text-base pb-10 pe-6">
-                        In questa prima fase, potrai descrivermi le idee che avevi in mente per il tuo abito
+                        In questa prima fase, potrai descriverci le idee che avevi in mente per il tuo abito
                         da sposa, e lo stile che ti fa sentire a tuo agio. 
                         Avrai una consulenza completa sulla tua silhouette e su quali 
                         materiali orientarci per esprimere ciò che desideri,
@@ -169,7 +169,7 @@ const Home = () => {
             {/* CHI SIAMO */}
             <div id="who" className="w-full flex flex-col lg:flex-row font-light -mt-36 pt-36 md:-mt-32 md:pt-32">
                 <div className="w-full lg:w-1/3 text-left pb-10 pe-6">
-                    <p className="text-4xl md:text-7xl uppercase text-end">mi presento</p>
+                    <p className="text-4xl md:text-6xl uppercase text-end">mi presento</p>
                     {/* <p className="text-4xl md:text-7xl pb-2 font-medium text-end uppercase">io sono celine.</p> */}
                 </div>
                 <div className="h-full lg:w-1/3">
@@ -179,7 +179,7 @@ const Home = () => {
                     <p className="text-base mt-32 pb-10 pe-6">
                     Sono Celine, da 20 anni lavoro nel mondo della moda, Haute Couture e Pret à Porter, prima a Parigi, poi a Milano.
                     <br/>In questi anni ho avuto il privilegio di lavorare a fianco di grandi artisti che mi hanno insegnato come la bellezza possa esprimersi dall'abito che indossi, vestendo celebrità internazionali per eventi speciali e preparando sfilate per l'Alta Moda.
-                    <br/><br/>Insieme a Michele, il mio partner, abbiamo pensato fosse giunto il momento di mettere a disposizione questo bagaglio di esperienze e competenze a chiunque l'avesse desiderato. Offrire un servizio di alta moda per una donna che ha sempre sognato il proprio abito, pensato e creato.
+                    <br/><br/>Insieme a Michele, il mio partner, abbiamo pensato fosse giunto il momento di mettere a disposizione questo bagaglio di esperienze e competenze a chiunque l'avesse desiderato. Offrire un servizio di Alta Moda per una donna che ha sempre sognato il proprio abito, pensato e creato.
                     <br/><br/> Se hai sempre desiderato avere una tua creazione, unica, artigianale e su misura, vienici a trovare e parliamone assieme.
                     </p>
                 </div> 
