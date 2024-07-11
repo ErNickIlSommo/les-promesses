@@ -63,8 +63,8 @@ const Home = () => {
                     <p className="text-4xl md:text-7xl pb-2 font-medium">PER CONOSCERCI.</p>
                     {/* <p className="text-4xl md:text-7xl uppercase">Conosciamoci.</p> */}
                     <p className="text-base pb-10 pe-6">
-                        In questa prima fase, potrai descriverci le idee che avevi in mente per il tuo abito
-                        da sposa, e lo stile che ti fa sentire a tuo agio. 
+                        In questa prima fase, potrai descriverci le idee che avevi in mente per il tuo abito, 
+                        e lo stile che ti fa sentire a tuo agio. 
                         Avrai una consulenza completa sulla tua silhouette e su quali 
                         materiali orientarci per esprimere ciò che desideri,
                         considerando anche la location e lo stile complessivo
