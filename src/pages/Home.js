@@ -186,16 +186,18 @@ const Home = () => {
             </div>
 
             {/* FORM */}
-            <div id="form" className="w-full flex flex-col lg:flex-row font-light -mt-36 pt-36 md:-mt-32 md:pt-32">
+            <div  data-type="subscription" id="form" className="w-full flex flex-col lg:flex-row font-light -mt-36 pt-36 md:-mt-32 md:pt-32">
                 <div className="hidden h-full lg:w-1/3 lg:flex items-center"><img src={contatto1}/></div>
                 <div className="w-full h-full lg:w-1/3 items-center">
                     <p className="text-4xl md:text-7xl uppercase text-center">mettiamoci</p>
                     <p className="text-4xl md:text-7xl pb-2 font-medium text-center uppercase">in contatto</p>
-                    <form action="#" className="w-full p-8 space-y-4">
+                    <form id="sib-form" method="POST" action="https://217ddafd.sibforms.com/serve/MUIFANAFS4E_YRtmxKHBueYSx7KUIq2JAok0uboMRi7WQArR-KAtFEpzbulcUs0It_RLIC8QYjkF0RtXoHmrKkv7mZdBFqrMYe8UgpZ72AH2nQAxCpUvBffwS0e_dgabBgaaBbP4NxL868kX10p8DX99YYJfVWyXYv7idd8KNnmFe3Vt1et56SrMj3T9X7IaHH-Q0chvHS7S20Td" className="w-full p-8 space-y-4">
                         <div>
-                            <label className="sr-only">Email</label>
+                            <label className="sr-only">Name</label>
                             <input
                             type="name"
+                            id="NOME" 
+                            name="NOME"
                             className="w-full bg-transparent rounded-sm border border-[#8E969B] p-4 pe-12 text-sm"
                             placeholder="Inserisci il tuo nome"
                             />
@@ -204,33 +206,39 @@ const Home = () => {
                             <label className="sr-only">Email</label>
                             <input
                             type="email"
+                            id="EMAIL" 
+                            name="EMAIL"
                             className="w-full bg-transparent rounded-sm border border-[#8E969B] p-4 pe-12 text-sm"
                             placeholder="Inserisci la tua email"
                             />
                         </div>
                         <div>
-                            <label className="sr-only">Email</label>
+                            <label className="sr-only">Lingua</label>
                             <select
                                 type=""
+                                id="LINGUA" 
+                                name="LINGUA"
                                 className="w-full appearance-none bg-transparent rounded-sm border border-[#8E969B] p-4 text-sm"
                                 placeholder="(Inglese, francese, italiano)" 
 
                             >
-                                <option>Italiano</option>
-                                <option>Francese</option>
-                                <option>Inglese</option>
+                                <option value="1">Italiano</option>
+                                <option value="2">Francese</option>
+                                <option value="3">Inglese</option>
                             </select>
                         </div>
                         <div>
-                            <label className="sr-only">Email</label>
+                            <label className="sr-only">Messaggio</label>
                             <textarea 
                             rows="4"
+                            id="MESSAGGIO" 
+                            name="MESSAGGIO"
                             className="w-full bg-transparent rounded-sm border border-[#8E969B] p-4 pe-12 text-sm"
                             placeholder="Scrivi qui il tuo messaggio"
                             />
                             <p className="w-full text-gray-800 font-light text-sm mt-1">Garantiamo una risposta entro 2 giorni lavorativi.</p>
                         </div>
-                        <div className="font-bold px-5 py-3 border-2 border-[#A39B98] rounded-sm text-center text-[#000000] uppercase cursor-pointer">contattaci</div>
+                        <button form="sib-form" type="submit" className="w-full font-bold px-5 py-3 border-2 border-[#A39B98] rounded-sm text-center text-[#000000] uppercase cursor-pointer">contattaci</button>
                     </form>
                 </div>
                 <div className="hidden h-full lg:w-1/3 lg:flex items-center"><img src={contatto2}/></div>
