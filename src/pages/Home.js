@@ -41,10 +41,10 @@ const Home = () => {
                         <p className="text-4xl md:text-7xl">NO COLLEZIONI,</p>
                         <p className="text-4xl md:text-7xl pb-2 font-medium">SOLO PEZZI UNICI.</p>
                         <p className="text-base px-10 md:px-20 lg:px-24">
-                            Ci immergiamo nei tuoi sogni, ed ascoltiamo la tua storia. Ogni singolo dettaglio
+                            Ci immergiamo nei tuoi sogni ed ascoltiamo la tua storia. Ogni singolo dettaglio
                             verrà personalizzato per far emergere la tua unicità.
                             La nostra creatività non ha
-                            confini, e ci impegneremo con passione finché il tuo abito non sarà l'espressione
+                            confini e ci impegneremo con passione finché il tuo abito non sarà l'espressione
                             perfetta di te stessa.
                         </p>
                     </div>
@@ -63,7 +63,7 @@ const Home = () => {
                     <p className="text-4xl md:text-7xl pb-2 font-medium">PER CONOSCERCI.</p>
                     {/* <p className="text-4xl md:text-7xl uppercase">Conosciamoci.</p> */}
                     <p className="text-base pb-10 pe-6">
-                        In questa prima fase, potrai descriverci le idee che avevi in mente per il tuo abito, 
+                        In questa prima fase potrai descriverci le idee che avevi in mente per il tuo abito 
                         e lo stile che ti fa sentire a tuo agio. 
                         Avrai una consulenza completa sulla tua silhouette e su quali 
                         materiali orientarci per esprimere ciò che desideri,
@@ -79,13 +79,13 @@ const Home = () => {
                         </div>
                         <div className="mb-10">
                             <p className="font-semibold underline">Potrò provare degli abiti?</p>
-                            <p className="mb-2.5 italic">Certo! Si tratta di prototipi realizzati per aiutarti a trovare idee e ispirazioni, toccare con mano i materiali e capire cosa può fare al caso tuo</p>
+                            <p className="mb-2.5 italic">Certo! Si tratta di prototipi realizzati per aiutarti a trovare idee e ispirazioni, toccare con mano i materiali e capire cosa potrebbe fare al caso tuo</p>
                         </div>
                         <div className="mb-10">
                             <p className="font-semibold underline">Se al termine dell'incontro non fossi convinta?</p>
                             <p className="mb-2.5 italic">
                                 Nessun problema. Ci ha fatto piacere conoscerti, aver bevuto insieme 
-                                un aperitivo e averti dato alcuni spunti interessanti
+                                un aperitivo e averti fornito alcuni spunti interessanti
                             </p>
                         </div>
                         <div className="mb-2">
@@ -117,17 +117,17 @@ const Home = () => {
                         le forme, le misure e le idee finora condivise.
                         Insieme andremo poi a definire tutto il resto: tessuto, ricami, accessori, fino all’ultimo dettaglio.
                     </p>
-                    <div className="w-3/4 lg:w-1/2">
+                    <div className="w-3/4">
                         <div className="mb-10">
                             <p className="font-semibold underline">Se volessi aggiungere o modificare degli elementi?</p>
-                            <p className="mb-2.5 italic">tutto si può modificare, aggiungere o togliere. Il tuo abito dovrà avere tutto ciò che serve</p>
+                            <p className="mb-2.5 italic">Tutto si può modificare, aggiungere o togliere. Il tuo abito dovrà avere tutto ciò che serve</p>
                         </div>
                         <div className="mb-10">
                             <p className="font-semibold underline">Posso avere un abito in seta italiana dipinta a mano?</p>
                             <p className="mb-2.5 italic">Certo!</p>
                         </div>
                         <div className="mb-10">
-                            <p className="font-semibold underline">Posso avere pizzi francesi di alta moda sviluppati ad hoc?</p>
+                            <p className="font-semibold underline">Posso avere pizzi francesi di Alta Moda sviluppati ad hoc?</p>
                             <p className="mb-2.5 italic">Certo!</p>
                         </div>
                         <div className="mb-2">
@@ -135,7 +135,7 @@ const Home = () => {
                                 Posso avere anche ricami a mano personalizzati?
                             </p>
                             <p className="mb-2.5 italic">
-                                Certo, tutto si può fare. Il tuo sarà un vero abito artigianale su misura e Made in Italy
+                                Certo, tutto si può fare. Il tuo sarà un vero abito artigianale, su misura, e Made in Italy
                             </p>
                         </div>
                     </div>
@@ -177,7 +177,7 @@ const Home = () => {
                 </div>
                 <div className="w-full h-full flex align-bottom lg:w-1/3 pb-10 ps-6">
                     <p className="text-base mt-32 pb-10 pe-6">
-                    Sono Celine, da 20 anni lavoro nel mondo della moda, Haute Couture e Pret à Porter, prima a Parigi, poi a Milano.
+                    Sono Celine, da 20 anni lavoro nel mondo della moda, Haute Couture e Pret à Porter, prima a Parigi poi a Milano.
                     <br/>In questi anni ho avuto il privilegio di lavorare a fianco di grandi artisti che mi hanno insegnato come la bellezza possa esprimersi dall'abito che indossi, vestendo celebrità internazionali per eventi speciali e preparando sfilate per l'Alta Moda.
                     <br/><br/>Insieme a Michele, il mio partner, abbiamo pensato fosse giunto il momento di mettere a disposizione questo bagaglio di esperienze e competenze a chiunque l'avesse desiderato. Offrire un servizio di Alta Moda per una donna che ha sempre sognato il proprio abito, pensato e creato.
                     <br/><br/> Se hai sempre desiderato avere una tua creazione, unica, artigianale e su misura, vienici a trovare e parliamone assieme.
