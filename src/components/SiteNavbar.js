@@ -24,7 +24,7 @@ const SiteNavbar = () => {
                     <div className="flex flex-col gap-10 items-center">
                         <div className="space-y-10 uppercase items-center flex flex-col" id="navbarSupportedContent1" onClick={()=>setCollapsed(true)} data-twe-collapse-item>
                             <Link smooth className="" to="/#"><p>HOME</p></Link>
-                            <Link smooth  className="" to="/inspiration"><p>ISPIRAZIONI</p></Link>
+                            <Link smooth  className="" to="/inspiration"><p>GALLERIA</p></Link>
                             <Link smooth className="" to="/#who"><p>CHI SIAMO</p></Link>
                             {/* <p>IT</p> */}
                             <Link smooth  to="/#form">
@@ -44,7 +44,7 @@ const SiteNavbar = () => {
                     </div>
                     <div className="gap-10 uppercase items-center flex" id="navbarSupportedContent1" data-twe-collapse-item>
                         <Link smooth className="" to="/#"><p>HOME</p></Link>
-                        <Link smooth  className="" to="/inspiration"><p>ISPIRAZIONI</p></Link>
+                        <Link smooth  className="" to="/inspiration"><p>GALLERIA</p></Link>
                         <Link smooth className="" to="/#who"><p>CHI SIAMO</p></Link>
                         <Link smooth  to="/#form">
                             <div className="font-semibold px-3 py-1 border border-black rounded-sm cursor-pointer">contattaci</div>
