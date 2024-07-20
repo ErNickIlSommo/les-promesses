@@ -49,7 +49,7 @@ const SiteFooter = () => {
                     <p className="font-semibold">Informazioni</p>
                     <div className="flex flex-col gap-0 text-sm">
                         <p>P. IVA 04165690241</p>
-                        <Link to="/privacy">Informativa sulla Privacy</Link>
+                        <Link smooth to="/privacy">Informativa sulla Privacy</Link>
                     </div>
                 </div>  
         </div>

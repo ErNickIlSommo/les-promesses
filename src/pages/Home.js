@@ -1,4 +1,5 @@
 import React from "react";
+import { useState } from "react";
 
 import video from '../images/LES_PROMESSES.mp4'
 
@@ -19,8 +20,17 @@ import abito3 from '../images/indossa_il_tuo_abito/3.jpg'
 
 import contatto1 from '../images/contatto/form1.png'
 import contatto2 from '../images/contatto/form2.png'
+import { Link } from "react-router-dom";
 
 const Home = () => {
+
+    const [isChecked, setIsChecked] = useState(false)
+
+    const handleCheckboxChange = (event) => {
+        setIsChecked(event.target.checked);
+        // console.log(isChecked)
+    };
+
     return(
         <div id="video-lp" className="Home flex flex-col gap-10 md:gap-36">
             {/* EPIGRAMMA */}
@@ -230,15 +240,33 @@ const Home = () => {
                         <div>
                             <label className="sr-only">Messaggio</label>
                             <textarea 
-                            rows="4"
-                            id="MESSAGGIO" 
-                            name="MESSAGGIO"
-                            className="w-full bg-transparent rounded-sm border border-[#8E969B] p-4 pe-12 text-sm"
-                            placeholder="Scrivi qui il tuo messaggio"
+                                rows="4"
+                                id="MESSAGGIO" 
+                                name="MESSAGGIO"
+                                className="w-full bg-transparent rounded-sm border border-[#8E969B] p-4 pe-12 text-sm"
+                                placeholder="Scrivi qui il tuo messaggio"
                             />
+                            <div class="flex items-center mb-2  z-50">
+                                {/* <p>Ciao mamma sono in tv</p> */}
+                                <input 
+                                    id="default-checkbox" 
+                                    type="checkbox" 
+                                    value=""
+                                    checked={isChecked}
+                                    onChange={handleCheckboxChange} 
+                                    className="w-4 h-4 text-blue-600 bg-gray-100 border-gray-300 rounded"
+                                />
+
+                                <label for="default-checkbox" class="ms-2 text-sm">
+                                    Ho preso visione dell'
+                                    <Link className="font-medium" to="/privacy">
+                                        Informativa sulla Privacy
+                                    </Link>
+                                </label>
+                            </div>
                             <p className="w-full text-gray-800 font-light text-sm mt-1">Garantiamo una risposta entro 2 giorni lavorativi.</p>
                         </div>
-                        <button form="sib-form" type="submit" className="w-full font-bold px-5 py-3 border-2 border-[#A39B98] rounded-sm text-center text-[#000000] uppercase cursor-pointer">contattaci</button>
+                        <button form="sib-form" type="submit" disabled={!isChecked} className="w-full font-bold px-5 py-3 border-2 border-[#A39B98] rounded-sm text-center text-[#000000] uppercase cursor-pointer disabled:opacity-50 disabled:cursor-not-allowed">contattaci</button>
                     </form>
                 </div>
                 <div className="hidden h-full lg:w-1/3 lg:flex items-center"><img src={contatto2}/></div>

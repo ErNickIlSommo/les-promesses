@@ -7,6 +7,7 @@ import NoPage from "./pages/NoPage";
 import SiteNavbar from "./components/SiteNavbar";
 import SiteFooter from "./components/SiteFooter";
 import Confirm from "./pages/Confirm";
+import Privacy from "./pages/Privacy";
 
 function App() {
   return (
@@ -19,6 +20,7 @@ function App() {
               <Route index element={<Home />} />
               <Route path="/inspiration" element={<Inspiration />} />
               <Route path="/confirm" element={<Confirm />} />
+              <Route path="/privacy" element={<Privacy />} />
               <Route path="*" element={<NoPage />} />
             </Routes>
           </div>
