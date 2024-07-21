@@ -26,19 +26,21 @@ const SiteFooter = () => {
                     <p className="font-semibold mb-3">Contatti</p>
                     <div className="flex flex-col gap-0 text-sm">
                         <a href="mailto:info@lespromesses.com">info@lespromesses.com</a>
+                        <a href="mailto:celine@lespromesses.com">celine@lespromesses.com</a>
+                        <a href="mailto:michele@lespromesses.com">michele@lespromesses.com</a>
                         {/* <a href="mailto:michele@lespromesses.com">michele@lespromesses.com</a>
                         <a href="mailto:celine@lespromesses.com">celine@lespromesses.com</a> */}
                         {/* <a className="" href="tel:+39000111222">+39 000111222</a> */}
                     </div>
                 </div>
                 <div className="w-full md:w-1/3 lg:w-1/6">
-                    <p className="font-semibold">Social</p>
+                    <p className="font-semibold mb-3">Social</p>
                     <div className="flex flex-col gap-0 text-sm">
                         <a href="https://www.instagram.com/weddingdress_les_promesses/" target="_blank">Instagram</a>
                     </div>
                 </div>
                 <div className="w-full md:w-1/3 lg:w-1/6">
-                    <p className="font-semibold">Crediti</p>
+                    <p className="font-semibold mb-3">Crediti</p>
                     <div className="flex flex-col gap-0 text-sm">
                         <p>Foto di Sara Bazzeghini</p>
                         <p>Foto e video di Matteo Mangano</p>
@@ -46,7 +48,7 @@ const SiteFooter = () => {
                     </div>
                 </div>
                 <div className="w-full md:w-1/3 lg:w-1/6">
-                    <p className="font-semibold">Informazioni</p>
+                    <p className="font-semibold mb-3">Informazioni</p>
                     <div className="flex flex-col gap-0 text-sm">
                         <p>P. IVA 04165690241</p>
                         <Link smooth to="/privacy">Informativa sulla Privacy</Link>
