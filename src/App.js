@@ -2,6 +2,8 @@ import ReactDOM from "react-dom/client";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 
 import Inspiration from "./pages/Inspiration";
+import Gallery from "./pages/Gallery";
+
 import Home from "./pages/Home";
 import NoPage from "./pages/NoPage";
 import SiteNavbar from "./components/SiteNavbar";
@@ -18,7 +20,8 @@ function App() {
           <div className="mt-36 md:mt-24 px-3 md:px-10">
             <Routes>
               <Route index element={<Home />} />
-              <Route path="/inspiration" element={<Inspiration />} />
+              {/* <Route path="/inspiration" element={<Inspiration />} /> */}
+              <Route path="/gallery" element={<Gallery />} />
               <Route path="/confirm" element={<Confirm />} />
               <Route path="/privacy" element={<Privacy />} />
               <Route path="*" element={<NoPage />} />

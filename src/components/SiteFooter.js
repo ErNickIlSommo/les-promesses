@@ -16,7 +16,7 @@ const SiteFooter = () => {
                     <p className="font-semibold mb-3">Navigazione</p>
                     <div className="flex flex-col gap-0 uppercase text-sm">
                         <Link smooth className="" to="/#">HOME</Link>
-                        <Link smooth  className="" to="/inspiration">GALLERIA</Link>
+                        <Link smooth  className="" to="/gallery">GALLERIA</Link>
                         <Link smooth className="" to="/#who">CHI SIAMO</Link>
                         {/* <p>IT</p> */}
                         <Link smooth  to="/#form">contattaci</Link>

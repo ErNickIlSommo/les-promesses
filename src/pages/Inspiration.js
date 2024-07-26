@@ -35,56 +35,56 @@ const Inspiration = () => {
     return(
         <div>  
             <p className="text-4xl md:text-6xl text-end mb-10 font-light uppercase">Dalle piccole cose, <span className="font-medium">ispirazioni.</span></p>
-                <div className="flex flex-col md:flex-row gap-10">
-                    <div className="w-full h-screen md:w-1/3"><img src={ins1} className="h-full object-cover"/></div>
-                    <div className="w-full h-screen md:w-1/3"><img src={ins2} className="h-full object-cover"/></div>
-                    <div className="w-full h-screen md:w-1/3"><img src={ins3} className="h-full object-cover"/></div>
-                </div>
-                <div className="flex mt-10 flex-col md:flex-row gap-10">
-                    <div className="w-full h-screen md:w-1/3"><img src={ins4} className="h-full object-cover"/></div>
-                    <div className="w-full h-screen md:w-1/3"><img src={ins5} className="h-full object-cover"/></div>
-                    <div className="w-full h-screen md:w-1/3"><img src={ins6} className="h-full object-cover"/></div>
-                </div>
-                <div className="flex mt-10 flex-col md:flex-row gap-10">
-                    <div className="w-full h-screen md:w-1/3"><img src={ins7} className="h-full object-cover"/></div>
-                    <div className="w-full h-screen md:w-1/3"><img src={ins8} className="h-full object-cover"/></div>
-                    <div className="w-full h-screen md:w-1/3"><img src={ins9} className="h-full object-cover"/></div>
-                </div>
-                <div className="flex mt-10 flex-col md:flex-row gap-10">
-                    <div className="w-full h-screen md:w-1/3"><img src={ins10} className="h-full object-cover"/></div>
-                    <div className="w-full h-screen md:w-1/3"><img src={ins11} className="h-full object-cover"/></div>
-                    <div className="w-full h-screen md:w-1/3"><img src={ins12} className="h-full object-cover"/></div>
-                </div>
-                <div className="flex mt-10 flex-col md:flex-row gap-10">
-                    <div className="w-full h-screen md:w-1/3"><img src={ins13} className="h-full object-cover"/></div>
-                    <div className="w-full h-screen md:w-1/3"><img src={ins14} className="h-full object-cover"/></div>
-                    <div className="w-full h-screen md:w-1/3"><img src={ins15} className="h-full object-cover"/></div>
-                </div>
-                <div className="flex mt-10 flex-col md:flex-row gap-10">
-                    <div className="w-full h-screen md:w-1/3"><img src={ins16} className="h-full object-cover"/></div>
-                    <div className="w-full h-screen md:w-1/3"><img src={ins17} className="h-full object-cover"/></div>
-                    <div className="w-full h-screen md:w-1/3"><img src={ins18} className="h-full object-cover"/></div>
-                </div>
-                <div className="flex mt-10 flex-col md:flex-row gap-10">
-                    <div className="w-full h-screen md:w-1/3"><img src={ins19} className="h-full object-cover"/></div>
-                    <div className="w-full h-screen md:w-1/3"><img src={ins20} className="h-full object-cover"/></div>
-                    <div className="w-full h-screen md:w-1/3"><img src={ins21} className="h-full object-cover"/></div>
-                </div>
-                <div className="flex mt-10 flex-col md:flex-row gap-10">
-                    <div className="w-full h-screen md:w-1/3"><img src={ins22} className="h-full object-cover"/></div>
-                    <div className="w-full h-screen md:w-1/3"><img src={ins23} className="h-full object-cover"/></div>
-                    <div className="w-full h-screen md:w-1/3"><img src={ins24} className="h-full object-cover"/></div>
-                </div>
-                <div className="flex mt-10 flex-col md:flex-row gap-10">
-                    <div className="w-full h-screen md:w-1/3"><img src={ins25} className="h-full object-cover"/></div>
-                    <div className="w-full h-screen md:w-1/3"><img src={ins26} className="h-full object-cover"/></div>
-                    <div className="w-full h-screen md:w-1/3"><img src={ins27} className="h-full object-cover"/></div>
-                </div>
-                <div className="flex mt-10 flex-col md:flex-row gap-10">
-                    <div className="w-full h-screen md:w-1/3"><img src={ins28} className="h-full object-cover"/></div>
-                    <div className="w-full h-screen md:w-1/3"><img src={ins29} className="h-full object-cover"/></div>
-                    <div className="w-full h-screen md:w-1/3"><img src={ins30} className="h-full object-cover"/></div>
-                </div>
+            <div className="flex flex-col md:flex-row gap-10">
+                <div className="w-full h-screen md:w-1/3"><img loading="lazy" effect="blur" src={ins1} className="h-full object-cover"/></div>
+                <div className="w-full h-screen md:w-1/3"><img loading="lazy" effect="blur" src={ins2} className="h-full object-cover"/></div>
+                <div className="w-full h-screen md:w-1/3"><img loading="lazy" effect="blur" src={ins3} className="h-full object-cover"/></div>
+            </div>
+            <div className="flex mt-10 flex-col md:flex-row gap-10">
+                <div className="w-full h-screen md:w-1/3"><img loading="lazy" effect="blur" src={ins4} className="h-full object-cover"/></div>
+                <div className="w-full h-screen md:w-1/3"><img loading="lazy" effect="blur" src={ins5} className="h-full object-cover"/></div>
+                <div className="w-full h-screen md:w-1/3"><img loading="lazy" effect="blur" src={ins6} className="h-full object-cover"/></div>
+            </div>
+            <div className="flex mt-10 flex-col md:flex-row gap-10">
+                <div className="w-full h-screen md:w-1/3"><img loading="lazy" effect="blur" src={ins7} className="h-full object-cover"/></div>
+                <div className="w-full h-screen md:w-1/3"><img loading="lazy" effect="blur" src={ins8} className="h-full object-cover"/></div>
+                <div className="w-full h-screen md:w-1/3"><img loading="lazy" effect="blur" src={ins9} className="h-full object-cover"/></div>
+            </div>
+            <div className="flex mt-10 flex-col md:flex-row gap-10">
+                <div className="w-full h-screen md:w-1/3"><img loading="lazy" effect="blur" src={ins10} className="h-full object-cover"/></div>
+                <div className="w-full h-screen md:w-1/3"><img loading="lazy" effect="blur" src={ins11} className="h-full object-cover"/></div>
+                <div className="w-full h-screen md:w-1/3"><img loading="lazy" effect="blur" src={ins12} className="h-full object-cover"/></div>
+            </div>
+            <div className="flex mt-10 flex-col md:flex-row gap-10">
+                <div className="w-full h-screen md:w-1/3"><img loading="lazy" effect="blur" src={ins13} className="h-full object-cover"/></div>
+                <div className="w-full h-screen md:w-1/3"><img loading="lazy" effect="blur" src={ins14} className="h-full object-cover"/></div>
+                <div className="w-full h-screen md:w-1/3"><img loading="lazy" effect="blur" src={ins15} className="h-full object-cover"/></div>
+            </div>
+            <div className="flex mt-10 flex-col md:flex-row gap-10">
+                <div className="w-full h-screen md:w-1/3"><img loading="lazy" effect="blur" src={ins16} className="h-full object-cover"/></div>
+                <div className="w-full h-screen md:w-1/3"><img loading="lazy" effect="blur" src={ins17} className="h-full object-cover"/></div>
+                <div className="w-full h-screen md:w-1/3"><img loading="lazy" effect="blur" src={ins18} className="h-full object-cover"/></div>
+            </div>
+            <div className="flex mt-10 flex-col md:flex-row gap-10">
+                <div className="w-full h-screen md:w-1/3"><img loading="lazy" effect="blur" src={ins19} className="h-full object-cover"/></div>
+                <div className="w-full h-screen md:w-1/3"><img loading="lazy" effect="blur" src={ins20} className="h-full object-cover"/></div>
+                <div className="w-full h-screen md:w-1/3"><img loading="lazy" effect="blur" src={ins21} className="h-full object-cover"/></div>
+            </div>
+            <div className="flex mt-10 flex-col md:flex-row gap-10">
+                <div className="w-full h-screen md:w-1/3"><img loading="lazy" effect="blur" src={ins22} className="h-full object-cover"/></div>
+                <div className="w-full h-screen md:w-1/3"><img loading="lazy" effect="blur" src={ins23} className="h-full object-cover"/></div>
+                <div className="w-full h-screen md:w-1/3"><img loading="lazy" effect="blur" src={ins24} className="h-full object-cover"/></div>
+            </div>
+            <div className="flex mt-10 flex-col md:flex-row gap-10">
+                <div className="w-full h-screen md:w-1/3"><img loading="lazy" effect="blur" src={ins25} className="h-full object-cover"/></div>
+                <div className="w-full h-screen md:w-1/3"><img loading="lazy" effect="blur" src={ins26} className="h-full object-cover"/></div>
+                <div className="w-full h-screen md:w-1/3"><img loading="lazy" effect="blur" src={ins27} className="h-full object-cover"/></div>
+            </div>
+            <div className="flex mt-10 flex-col md:flex-row gap-10">
+                <div className="w-full h-screen md:w-1/3"><img loading="lazy" effect="blur" src={ins28} className="h-full object-cover"/></div>
+                <div className="w-full h-screen md:w-1/3"><img loading="lazy" effect="blur" src={ins29} className="h-full object-cover"/></div>
+                <div className="w-full h-screen md:w-1/3"><img loading="lazy" effect="blur" src={ins30} className="h-full object-cover"/></div>
+            </div>
         </div>
     )
 }

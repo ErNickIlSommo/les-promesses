@@ -2,7 +2,6 @@ import React from "react";
 import { useState } from "react";
 
 import video from '../images/LES_PROMESSES.mp4'
-import videoMobile from '../images/videoMobile.mp4'
 
 import no_collections_1 from '../images/no_collections/1.png'
 import no_collections_2 from '../images/no_collections/2.jpg'
@@ -267,7 +266,7 @@ const Home = () => {
                             </div>
                             <p className="w-full text-gray-800 font-light text-sm mt-1">Garantiamo una risposta entro 2 giorni lavorativi.</p>
                         </div>
-                        <button form="sib-form" type="submit" disabled={!isChecked} className="w-full font-bold px-5 py-3 border-2 border-[#A39B98] rounded-sm text-center text-[#000000] uppercase cursor-pointer disabled:opacity-50 disabled:cursor-not-allowed">contattaci</button>
+                        <button form="sib-form" type="submit" disabled={!isChecked} className="w-full font-bold px-5 py-3 border-2 border-[#A39B98] rounded-sm text-center text-[#000000] uppercase cursor-pointer disabled:opacity-50 disabled:">contattaci</button>
                     </form>
                 </div>
                 <div className="hidden h-full lg:w-1/3 lg:flex items-center"><img src={contatto2}/></div>
