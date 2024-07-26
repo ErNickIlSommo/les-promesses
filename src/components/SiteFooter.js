@@ -45,6 +45,7 @@ const SiteFooter = () => {
                         <p>Foto di Sara Bazzeghini</p>
                         <p>Foto e video di Matteo Mangano</p>
                         <p>Sito realizzato da Nicola Gianuzzi e <a href="https://www.raffaelecrocco.com/">Raffaele Crocco</a></p>
+                        <p>Grazie a Veronica Dibenedetto e Luca Malaguti</p>
                     </div>
                 </div>
                 <div className="w-full md:w-1/3 lg:w-1/6">
