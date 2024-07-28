@@ -226,7 +226,7 @@ const Home = ({ t }) => {
                                 className="w-full bg-transparent rounded-sm border border-[#8E969B] p-4 pe-12 text-sm"
                                 placeholder={contactForm.formMessage}
                             />
-                            <div class="flex items-center mb-2  z-50">
+                            <div className="flex items-center mb-2  z-50">
                                 {/* <p>Ciao mamma sono in tv</p> */}
                                 <input 
                                     id="default-checkbox" 
@@ -237,7 +237,7 @@ const Home = ({ t }) => {
                                     className="w-4 h-4 text-blue-600 bg-gray-100 border-gray-300 rounded"
                                 />
 
-                                <label for="default-checkbox" class="ms-2 text-sm">
+                                <label htmlFor="default-checkbox" className="ms-2 text-sm">
                                     {contactForm.privacy.line1}
                                     <Link className="font-medium" to="/privacy">
                                     {contactForm.privacy.line2}
