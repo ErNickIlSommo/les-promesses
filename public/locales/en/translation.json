@@ -1,0 +1,204 @@
+{
+    "navBar": {
+        "home": "Home",
+        "gallery": "Gallery",
+        "whoWeAre": "About us",
+        "cta": "Contact us"
+    },
+    "epigramma": "From Concept to Couture: Crafting Your Dream Wedding Dress",
+    "noCollection": {
+        "title": "Exclusive Designs,",
+        "title2": "tailored Just for You.",
+        "description": "We delve into your dreams and listen to your story. Every detail is customized to reflect your unique personality. Our creativity knows no bounds, and we work with passion to ensure your dress is a perfect expression of you."
+    },
+    "firstStep": {
+        "title": "Initial Consultation:",
+        "title2": "Finding Your Vision.",
+        "description": "In this first meeting, you’ll share your ideas and the styles you feel most comfortable in. We provide a comprehensive consultation about your silhouette and the best materials to use, considering the location and overall theme of your wedding.",
+        "faqs": {
+            "faq1": {
+                "question": "Where are you based?",
+                "answer": "Our Atelier is in Monza, just outside Milan. We can also arrange an initial video call (we speak Italian, French, and English)."
+            },
+            "faq2": {
+                "question": "Can I try on dresses?",
+                "answer": "Absolutely! We have prototypes to help you explore ideas, feel materials, and find what suits you best."
+            },
+            "faq3": {
+                "question": "Not convinced after the meeting?",
+                "answer": "No worries. We enjoyed meeting you, sharing an 'aperitivo', and offering some valuable insights."
+            },
+            "faq4": {
+                "question": "Ready to proceed?",
+                "answer": "We’re thrilled to embark on this journey together! We’ll start sharing sketches, drafts, and proposals to create your dress."
+            }
+        }
+    },
+    "secondStep": {
+        "title": "Try the canvas,",
+        "title2": "here in the studio.",
+        "description": "Your Vision Takes Shape. After a few weeks, you’ll try on the first prototype, reflecting the shapes, measurements, and ideas we’ve discussed. Together, we’ll finalize every detail: fabric, embroidery, accessories, and more.",
+        "faqs": {
+            "faq1": {
+                "question": "Want to add or change elements?",
+                "answer": "Everything can be modified to meet your desires. Your dress will have everything you envision."
+            },
+            "faq2": {
+                "question": "Can I have a hand-painted Italian silk dress?",
+                "answer": "Absolutely!"
+            },
+            "faq3": {
+                "question": "Can I have custom French haute couture lace?",
+                "answer": "Certainly!"
+            },
+            "faq4": {
+                "question": "Can I include bespoke hand embroidery?",
+                "answer": "Of course! Your dress will be a true handcrafted, made-to-measure, Made-in-Italy masterpiece."
+            }
+        }
+    },
+    "thirdStep": {
+        "title": "Wearing Your Dream Dress",
+        "faqs": {
+            "faq1": {
+                "question": "How long until I receive my dress?",
+                "answer": "Typically, 3 months. For special requests or last-minute changes, it may take a few additional weeks."
+            },
+            "faq2": {
+                "question": "What if the cost exceeds my budget?",
+                "answer": "We understand that dreams sometimes face financial constraints. We’re here to guide you, offering viable alternatives without compromising your vision."
+            },
+            "faq3": {
+                "question": "What is the approximate cost?",
+                "answer": "It varies based on materials, fabrics, accessories, and techniques. Most of our clients spend between €5,000 and €7,000."
+            }
+        }
+    },
+    "presentation": {
+        "title": "Meet Celine",
+        "description": {
+            "line1": "Celine has 20 years of experience in the world of fashion, Haute Couture, and Pret à Porter, having worked in Paris and Milan.",
+            "line2": "Throughout her career, she has had the privilege of collaborating with great artists, dressing international celebrities for special events, and preparing shows for Haute Couture.",
+            "line3": "Together with her partner Michele, Celine decided to share her wealth of experience and expertise with those who dream of their own bespoke dress. They offer a Haute Couture service for women who have always envisioned and desired a unique, handcrafted, and tailored creation.",
+            "line4": "If you’ve always wanted your own exclusive dress, visit the atelier and discuss your vision with Celine and Michele to bring your dream to life."
+        }
+    },
+    "contactForm": {
+        "title": "Get in touch",
+        "title2": "",
+        "formName": "Enter your name",
+        "formEmail": "Enter your email",
+        "formMessage": "Write your message here",
+        "privacy": {
+            "line1": "I have read the ",
+            "line2": "Privacy Policy"
+        },
+        "disclamer": "We guarantee a reply within 2 working days",
+        "cta": "Contact us"
+    },
+    "gallery": {
+        "line1": "From small things,",
+        "line2": "inspiration."
+    },
+    "confirmPage": {
+        "line1": "Thank you for contacting us.",
+        "line2": "We will get back to you within two working days."
+    },
+    "footer": {
+        "navigation": {
+            "title": "Navigation"
+        },
+        "contacts": {
+            "title": "Contact"
+        },
+        "social": {
+            "title": "Social"
+        },
+        "credits": {
+            "title": "Credits",
+            "line1": "Photos by Sara Bazzeghini",
+            "line2": "Photos and video by Matteo Mangano",
+            "line3": "Website by Nicola Gianuzzi and",
+            "line3b": "Raffaele Crocco",
+            "line4": "Thanks to Veronica Dibenedetto and Luca Malaguti"
+        },
+        "information": {
+            "title": "Information",
+            "line1": "VAT NUMBER 04165690241",
+            "line2": "Privacy Policy"
+        }
+    },
+    "pageNotFound": {
+        "line1": "Page not found"
+    },
+    "privacy": {
+        "title": "Privacy policy",
+        "welcome": "Welcome to the site",
+        "section1": {
+            "line1": "Data Controller",
+            "line2": "with registered office in Via Buonarroti, 28 - 20900 - Monza (MB), VAT number 04165690241 (hereinafter, ‘LES PROMESSES’) protects the confidentiality of users' personal data and guarantees the necessary protection against any risk of violation."
+        },
+        "section2": {
+            "line1": "The policy",
+            "line2": "LES PROMESSES respects your right to be informed about the collection and processing of your personal data. For questions or needs related to privacy, please contact us at:"
+        },
+        "section3": {
+            "line1": "DATA PROTECTION OFFICER (DPO)",
+            "line2": "LES PROMESSES has not appointed a Data Protection Officer (DPO), but is available for any clarification regarding data processing."
+        },
+        "section4": {
+            "line1": "PERSONAL DATA PROCESSED",
+            "line2": "The personal data processed include those provided by users at the time of purchase and those collected during browsing, such as:",
+            "line3": "Personal data (name, surname, address)",
+            "line4": "Contact data (email, phone number)",
+            "line5": "Payment data",
+            "line6": "Browsing data and cookies"
+        },
+        "section5": {
+            "line1": "PURPOSE OF PROCESSING",
+            "line2": "Data are collected and processed for the following purposes:",
+            "line3": "Execution of contracts and procurement",
+            "line4": "Sending newsletters and commercial communications",
+            "line5": "Customer care"
+        },
+        "section6": {
+            "line1": "LEGAL BASIS FOR PROCESSING",
+            "line2": "The processing of personal data is based on:",
+            "line3": "Execution of a contract",
+            "line4": "User consent",
+            "line5": "Legal Obligations"
+        },
+        "section7": {
+            "line1": "DATA RETENTION",
+            "line2": "The data will be kept as long as it is necessary for the purpose for which it was collected. In the event of a request for deletion, we will proceed promptly."
+        },
+        "section8": {
+            "line1": "RIGHTS OF THE DATA SUBJECT",
+            "line2": "Users have the right to:",
+            "line3": "Accessing your data",
+            "line4": "Request rectification or cancellation",
+            "line5": "Objecting to data processing",
+            "line6": "To exercise your rights, please contact us at"
+        },
+        "section9": {
+            "line1": "DATA TRANSFER",
+            "line2": "We will not transfer personal data to third countries or international organisations, unless otherwise stated."
+        },
+        "section10": {
+            "line1": "SECURITY MEASURES",
+            "line2": "We take appropriate security measures to protect personal data against unauthorised access or unlawful processing."
+        },
+        "section11": {
+            "line1": "CHANGES TO THE POLICY",
+            "line2": "LES PROMESSES reserves the right to amend this policy. Any changes will be published on this page."
+        },
+        "section12": {
+            "line1": "COMPLAINT TO THE COMPETENT AUTHORITY",
+            "line2": "In caso di violazione dei diritti, è possibile presentare un reclamo all'Autorità Garante per la Protezione dei Dati Personali."
+        },
+        "section13": {
+            "line1": "CONTACTS",
+            "line2": "For further information, please contact us at:"
+        }
+    }
+}

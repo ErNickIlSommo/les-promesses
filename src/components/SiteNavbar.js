@@ -2,11 +2,12 @@ import { HashLink as Link } from "react-router-hash-link";
 import logo from '../assets/LOGO.svg'
 import { useState } from "react";
 
-const SiteNavbar = () => {
+import LanguageSelector from "./LanguageSelector";
 
+const SiteNavbar = ({ t }) => {
+    const[collapsed, setCollapsed]=useState(true);
 
-    const[collapsed,setCollapsed]=useState(true);
-
+    const { home, gallery, whoWeAre, cta } = t("navBar")
 
     return(
         <div>
@@ -23,12 +24,13 @@ const SiteNavbar = () => {
                     :
                     <div className="flex flex-col gap-10 items-center">
                         <div className="space-y-10 uppercase items-center flex flex-col" id="navbarSupportedContent1" onClick={()=>setCollapsed(true)} data-twe-collapse-item>
-                            <Link smooth className="" to="/#"><p>HOME</p></Link>
-                            <Link smooth  className="" to="/gallery"><p>GALLERIA</p></Link>
-                            <Link smooth className="" to="/#who"><p>CHI SIAMO</p></Link>
+                            <Link smooth className="uppercase" to="/#"><p>{ home }</p></Link>
+                            <Link smooth  className="uppercase" to="/gallery"><p>{ gallery }</p></Link>
+                            <Link smooth className="uppercase" to="/#who"><p>{ whoWeAre }</p></Link>
+                            <LanguageSelector lan={"IT"} />
                             {/* <p>IT</p> */}
                             <Link smooth  to="/#form">
-                                <div className="font-semibold px-3 py-1 border border-black rounded-sm cursor-pointer">contattaci</div>
+                                <div className="font-semibold px-3 py-1 border border-black rounded-sm cursor-pointer">{ cta }</div>
                             </Link>
                         </div>
                         <div className="uppercase underline cursor-pointer" onClick={()=>setCollapsed(true)}>x close</div>
@@ -43,11 +45,13 @@ const SiteNavbar = () => {
                         </Link>
                     </div>
                     <div className="gap-10 uppercase items-center flex" id="navbarSupportedContent1" data-twe-collapse-item>
-                        <Link smooth className="" to="/#"><p>HOME</p></Link>
-                        <Link smooth  className="" to="/gallery"><p>GALLERIA</p></Link>
-                        <Link smooth className="" to="/#who"><p>CHI SIAMO</p></Link>
+                        <Link smooth className="" to="/#"><p>{ home }</p></Link>
+                        <Link smooth  className="" to="/gallery"><p>{ gallery }</p></Link>
+                        <Link smooth className="" to="/#who"><p>{ whoWeAre }</p></Link>
+                        <LanguageSelector lan={"IT"} />
+
                         <Link smooth  to="/#form">
-                            <div className="font-semibold px-3 py-1 border border-black rounded-sm cursor-pointer">contattaci</div>
+                            <div className="font-semibold px-3 py-1 border border-black rounded-sm cursor-pointer">{ cta }</div>
                         </Link>
                     </div> 
             </div>

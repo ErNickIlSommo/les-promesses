@@ -38,10 +38,11 @@ const photos = [
 // <div className="flex flex-col md:flex-row gap-10">
 //      <div className="w-full h-screen md:w-1/3">
 
-const Gallery = () => {
+const Gallery = ({ t }) => {
+    const gallery = t("gallery")
     return(
         <div className="">
-            <p className="text-4xl md:text-6xl text-end mb-2 font-light uppercase">Dalle piccole cose, <span className="font-medium">ispirazioni.</span></p>
+            <p className="text-4xl md:text-6xl text-end mb-2 font-light uppercase">{gallery.line1} <span className="font-medium">{gallery.line2}</span></p>
             <div className="bg-slate-200 w-full h-full content-[' '] animate-pulse rounded-xs"></div>
             <div className="flex flex-wrap">
                 {photos.map((src, index) => {

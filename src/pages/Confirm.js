@@ -1,11 +1,12 @@
 
-const Confirm = () => {
+const Confirm = ({ t }) => {
+    const confirmPage = t("confirmPage")
     return(
         <p className="text-4xl md:text-6xl text-end mb-10 font-light uppercase"> 
             <span className="font-medium">
-                Grazie per averci contattato.
+                {confirmPage.line1}
             </span>
-            Ti risponderemo entro due giorni lavorativi.
+            {confirmPage.line2}
         </p>
     )
 }

@@ -1,9 +1,12 @@
 import React from "react";
 
-const NoPage = () => {
+const NoPage = ({ t }) => {
+    
+    const { line1 } = t("pageNotFound")
+    
     return(
         <>
-        <p>No Page</p>
+        <p>{line1}</p>
         </>
     )
 }

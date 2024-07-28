@@ -1,0 +1,204 @@
+{
+    "navBar": {
+        "home": "Accueil",
+        "gallery": "Galerie",
+        "whoWeAre": "À PROPOS DE NOUS",
+        "cta": "Contactez-nous"
+    },
+    "epigramma": "Nous créons votre robe de mariée de A à Z, de la conception à la robe.",
+    "noCollection": {
+        "title": "Pas de collections,",
+        "title2": "seulement des pièces uniques.",
+        "description": "Nous nous plongeons dans vos rêves et écoutons votre histoire. Chaque détail sera personnalisé pour faire ressortir votre unicité. Notre créativité n'a pas de limites et nous nous engagerons avec passion jusqu'à ce que votre robe soit l'expression parfaite de vous-même."
+    },
+    "firstStep": {
+        "title": "La première rencontre,",
+        "title2": "pour faire connaissance.",
+        "description": "Dans cette première phase, vous pourrez nous décrire les idées que vous aviez en tête pour votre robe et le style qui vous met à l'aise. Vous aurez une consultation complète sur votre silhouette et sur les matériaux à choisir pour exprimer ce que vous souhaitez, en tenant compte du lieux et du style général de votre mariage.",
+        "faqs": {
+            "faq1": {
+                "question": "Où êtes-vous? ",
+                "answer": "Notre Atelier se trouve à Monza, aux portes de Milan. En alternative, nous pouvons organiser un premier appel vidéo (nous parlons italien, français et anglais)."
+            },
+            "faq2": {
+                "question": "Pourrais-je essayer des robes?",
+                "answer": "Bien sûr! Il s'agit de prototypes réalisés pour vous aider à trouver des idées et des inspirations, toucher les matériaux et comprendre ce qui pourrait vous convenir."
+            },
+            "faq3": {
+                "question": "Et si à la fin de la rencontre je ne suis pas convaincue?",
+                "answer": "Pas de problème. Nous avons été ravis de vous rencontrer, de partager un apéritif ensemble et de vous avoir fourni quelques idées intéressantes"
+            },
+            "faq4": {
+                "question": "Si vous décidez de continuer?",
+                "answer": "Nous sommes heureux de pouvoir commencer cette expérience ensemble! Nous commencerons à partager des dessins, des esquisses et des propositions pour préparer votre toile"
+            }
+        }
+    },
+    "secondStep": {
+        "title": "Essayez la toile,",
+        "title2": "ici à l'atelier.",
+        "description": "L'idée commence à prendre forme. Après quelques semaines, vous porterez votre toile, c'est-à-dire le premier prototype qui reflétera les formes, les mesures et les idées partagées jusqu'à présent. Ensemble, nous allons ensuite définir tout le reste : tissu, broderies, accessoires, jusqu'au dernier détail.",
+        "faqs": {
+            "faq1": {
+                "question": "Si je voulais ajouter ou modifier des éléments? ",
+                "answer": "Tout peut être modifié, ajouté ou enlevé. Votre robe doit avoir tout ce qu'il faut"
+            },
+            "faq2": {
+                "question": "Puis-je avoir une robe en soie italienne peinte à la main?",
+                "answer": "Bien sûr!"
+            },
+            "faq3": {
+                "question": "Puis-je avoir des dentelles françaises de Haute Couture développées sur mesure?",
+                "answer": "Bien sûr!"
+            },
+            "faq4": {
+                "question": "Puis-je également avoir des broderies personnalisées à la main?",
+                "answer": "Bien sûr, tout est possible. La vôtre sera une véritable robe artisanale, sur mesure, et Made in Italy."
+            }
+        }
+    },
+    "thirdStep": {
+        "title": "Mettez votre robe",
+        "faqs": {
+            "faq1": {
+                "question": "Combien de temps dois-je attendre pour avoir ma robe?",
+                "answer": "3 mois. Pour certaines réalisations très particulières ou pour des modifications de dernière minute, cependant, cela pourrait prendre quelques semaines de plus"
+            },
+            "faq2": {
+                "question": "Et si la robe que je souhaite coûte trop cher par rapport à ce qui était prévu?",
+                "answer": "Nous savons que, parfois, nos désirs doivent s'arrêter face à des coûts prohibitifs. Nous sommes là pour vous aider, vous guider du début à la fin dans chaque choix, en proposant toujours des alternatives pour vous permettre de ne pas compromettre votre rêve"
+            },
+            "faq3": {
+                "question": "Indication, combien ça coûte?",
+                "answer": "Cela dépend du choix du types de matériaux, tissus, accessoires, ou de réalisations spécifiques peuvent sensiblement affecter le prix final. Nous pouvons vous dire que la plupart de nos clientes ont réalisé leur robe pour un coût total compris entre 5 et 7k"
+            }
+        }
+    },
+    "presentation": {
+        "title": "Je me présente",
+        "description": {
+            "line1": "Je suis Céline, je travaille depuis 20 ans dans le monde de la mode, Haute Couture et Prêt-à-Porter, d'abord à Paris puis à Milan.",
+            "line2": "Au cours de ces années, j'ai eu le privilège de travailler aux côtés de grands artistes qui m'ont appris comment la beauté peut s'exprimer à travers la robe que vous portez, en habillant des célébrités internationales pour des événements spéciaux et en préparant des défilés de Haute Couture.",
+            "line3": "Avec Michele, mon partenaire, nous avons pensé qu'il était temps de mettre ces expériences et compétences à la disposition de quiconque le désire. Offrir un service de Haute Couture pour une femme qui a toujours rêvé de sa propre robe, pensée et créée.",
+            "line4": "Si vous avez toujours désiré avoir votre propre création, unique, artisanale et sur mesure, venez nous voir et parlons-en ensemble."
+        }
+    },
+    "contactForm": {
+        "title": "Contactons",
+        "title2": "Nous",
+        "formName": "Entrez votre nom",
+        "formEmail": "Entrez votre email",
+        "formMessage": "Écrivez ici votre message",
+        "privacy": {
+            "line1": "J'ai lu la",
+            "line2": "Politique de confidentialité"
+        },
+        "disclamer": "Nous garantissons une réponse sous 2 jours ouvrables",
+        "cta": "contactez-nous"
+    },
+    "gallery": {
+        "line1": "Des petites choses,",
+        "line2": "l'inspiration."
+    },
+    "confirmPage": {
+        "line1": "Merci de nous avoir contactés.",
+        "line2": "Nous vous répondrons dans les deux jours ouvrables."
+    },
+    "footer": {
+        "navigation": {
+            "title": "Navigation"
+        },
+        "contacts": {
+            "title": "Contact"
+        },
+        "social": {
+            "title": "Social"
+        },
+        "credits": {
+            "title": "Crédits",
+            "line1": "Photos de Sara Bazzeghini",
+            "line2": "Photos et vidéo de Matteo Mangano",
+            "line3": "Site créé par Nicola Gianuzzi et",
+            "line3b": "Raffaele Crocco",
+            "line4": "Merci à Veronica Dibenedetto et Luca Malaguti"
+        },
+        "information": {
+            "title": "Informations",
+            "line1": "NUMÉRO DE TVA 04165690241",
+            "line2": "Politique de confidentialité"
+        }
+    },
+    "pageNotFound": {
+        "line1": "Page non trouvée"
+    },
+    "privacy": {
+        "title": "Politique de confidentialité",
+        "welcome": "Bienvenue sur le site",
+        "section1": {
+            "line1": "Contrôleur de données",
+            "line2": "dont le siège est situé via Buonarroti, 28 - 20900 - Monza (MB), numéro de TVA 04165690241 (ci-après, « LES PROMESSES ») protège la confidentialité des données personnelles des utilisateurs et garantit la protection nécessaire contre tout risque de violation."
+        },
+        "section2": {
+            "line1": "La politique",
+            "line2": "LES PROMESSES respecte votre droit d'être informé sur la collecte et le traitement de vos données personnelles. Pour toute question ou besoin relatif à la protection de la vie privée, veuillez nous contacter à l'adresse suivante :"
+        },
+        "section3": {
+            "line1": "DÉLÉGUÉ À LA PROTECTION DES DONNÉES (DPD)",
+            "line2": "LES PROMESSES n'a pas désigné de délégué à la protection des données (DPD), mais se tient à votre disposition pour toute clarification concernant le traitement des données."
+        },
+        "section4": {
+            "line1": "DONNÉES PERSONNELLES TRAITÉES",
+            "line2": "Les données personnelles traitées sont celles fournies par les utilisateurs au moment de l'achat et celles collectées lors de la navigation, comme par exemple :",
+            "line3": "Données personnelles (nom, prénom, adresse)",
+            "line4": "Données de contact (courriel, numéro de téléphone)",
+            "line5": "Données de paiement",
+            "line6": "Données de navigation et cookies"
+        },
+        "section5": {
+            "line1": "FINALITÉ DU TRAITEMENT",
+            "line2": "Les données sont collectées et traitées aux fins suivantes :",
+            "line3": "Exécution des contrats et passation des marchés",
+            "line4": "Envoi de lettres d'information et de communications commerciales",
+            "line5": "Service à la clientèle"
+        },
+        "section6": {
+            "line1": "BASE JURIDIQUE DU TRAITEMENT",
+            "line2": "Le traitement des données personnelles est basé sur :",
+            "line3": "Exécution d'un contrat",
+            "line4": "Consentement de l'utilisateur",
+            "line5": "Obligations légales"
+        },
+        "section7": {
+            "line1": "CONSERVATION DES DONNÉES",
+            "line2": "Les données sont conservées aussi longtemps qu'elles sont nécessaires aux fins pour lesquelles elles ont été collectées. En cas de demande d'effacement, nous y donnerons suite rapidement."
+        },
+        "section8": {
+            "line1": "DROITS DE LA PERSONNE CONCERNÉE",
+            "line2": "Les utilisateurs ont le droit de:",
+            "line3": "Accéder à vos données",
+            "line4": "Demande de rectification ou d'annulation",
+            "line5": "Opposition au traitement des données",
+            "line6": "Pour exercer vos droits, veuillez nous contacter à l'adresse suivante"
+        },
+        "section9": {
+            "line1": "TRANSFERT DE DONNÉES",
+            "line2": "Sauf indication contraire, nous ne transférons pas de données à caractère personnel à des pays tiers ou à des organisations internationales."
+        },
+        "section10": {
+            "line1": "LES MESURES DE SÉCURITÉ",
+            "line2": "Nous prenons des mesures de sécurité appropriées pour protéger les données personnelles contre l'accès non autorisé ou le traitement illégal."
+        },
+        "section11": {
+            "line1": "MODIFICATIONS DE LA POLITIQUE",
+            "line2": "LES PROMESSES se réserve le droit de modifier cette politique. Toute modification sera publiée sur cette page."
+        },
+        "section12": {
+            "line1": "PLAINTE AUPRÈS DE L'AUTORITÉ COMPÉTENTE",
+            "line2": "En cas de violation des droits, une plainte peut être déposée auprès de l'Autorité de protection des données."
+        },
+        "section13": {
+            "line1": "CONTACTS",
+            "line2": "Pour plus d'informations, veuillez nous contacter à l'adresse suivante"
+        }
+    }
+}
