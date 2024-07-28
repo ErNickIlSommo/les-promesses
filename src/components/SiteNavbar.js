@@ -23,13 +23,13 @@ const SiteNavbar = ({ t }) => {
                     <div className="uppercase underline cursor-pointer" onClick={()=>setCollapsed(false)}>open menu</div>
                     :
                     <div className="flex flex-col gap-10 items-center">
-                        <div className="space-y-10 uppercase items-center flex flex-col" id="navbarSupportedContent1" onClick={()=>setCollapsed(true)} data-twe-collapse-item>
-                            <Link smooth className="uppercase" to="/#"><p>{ home }</p></Link>
-                            <Link smooth  className="uppercase" to="/gallery"><p>{ gallery }</p></Link>
-                            <Link smooth className="uppercase" to="/#who"><p>{ whoWeAre }</p></Link>
+                        <div className="space-y-10 uppercase items-center flex flex-col" id="navbarSupportedContent1" data-twe-collapse-item>
+                            <Link smooth onClick={()=>setCollapsed(true)} className="uppercase" to="/#"><p>{ home }</p></Link>
+                            <Link smooth onClick={()=>setCollapsed(true)}  className="uppercase" to="/gallery"><p>{ gallery }</p></Link>
+                            <Link smooth onClick={()=>setCollapsed(true)} className="uppercase" to="/#who"><p>{ whoWeAre }</p></Link>
                             <LanguageSelector lan={"IT"} />
                             {/* <p>IT</p> */}
-                            <Link smooth  to="/#form">
+                            <Link smooth onClick={()=>setCollapsed(true)}  to="/#form">
                                 <div className="font-semibold px-3 py-1 border border-black rounded-sm cursor-pointer">{ cta }</div>
                             </Link>
                         </div>
