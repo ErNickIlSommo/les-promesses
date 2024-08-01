@@ -1,7 +1,7 @@
 import ReactDOM from "react-dom/client";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
+import { useTranslation } from "react-i18next";
 
-import Inspiration from "./pages/Inspiration";
 import Gallery from "./pages/Gallery";
 
 import Home from "./pages/Home";
@@ -11,7 +11,6 @@ import SiteFooter from "./components/SiteFooter";
 import Confirm from "./pages/Confirm";
 import Privacy from "./pages/Privacy";
 
-import { useTranslation } from "react-i18next";
 
 function App() {
   const { t } = useTranslation()

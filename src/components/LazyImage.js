@@ -14,7 +14,7 @@ const LazyImage = ({ src, alt }) => {
             style={{ minHeight: '200px' }}
             className="w-full h-screen md:w-1/3 p-2"
         >
-            {inView ? <img src={src} alt={alt} /> : 
+            {inView ? <img src={src} alt={alt} className="h-full object-cover"/> : 
                 <div className="bg-slate-200 w-full h-full content-[' '] animate-pulse rounded-xs"></div>
             }
         </div>

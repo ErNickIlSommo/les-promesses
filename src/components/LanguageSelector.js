@@ -27,7 +27,9 @@ const LanguageSelector = ({ lan }) =>{
             onClick={() => changeLanguage()}
             className="cursor-pointer select-none"
         >
-            <p>{i18n.language}</p>
+            <p className="uppercase">
+                {i18n.language}
+            </p>
         </div>
     )
 }

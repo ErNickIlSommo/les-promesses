@@ -3,8 +3,8 @@ import React from "react";
 import LazyImage from "../components/LazyImage";
 
 const photos = [
-    // '/gallery/1.webp',
-    // '/gallery/2.webp',
+    '/gallery/1.webp',
+    '/gallery/2.webp',
     '/gallery/3.webp',
     '/gallery/4.webp',
     '/gallery/5.webp',
@@ -18,21 +18,21 @@ const photos = [
     '/gallery/13.webp',
     '/gallery/14.webp',
     '/gallery/15.webp',
-    // '/gallery/16.webp',
-    // '/gallery/17.webp',
-    // '/gallery/18.webp',
-    // '/gallery/19.webp',
-    // '/gallery/20.webp',
-    // '/gallery/21.webp',
+    '/gallery/16.webp',
+    '/gallery/17.webp',
+    '/gallery/18.webp',
+    '/gallery/19.webp',
+    '/gallery/20.webp',
+    '/gallery/21.webp',
     '/gallery/22.webp',
-    // '/gallery/23.webp',
+    '/gallery/23.webp',
     '/gallery/24.webp',
     '/gallery/25.webp',
-    // '/gallery/26.webp',
+    '/gallery/26.webp',
     '/gallery/27.webp',
     '/gallery/28.webp',
     '/gallery/29.webp',
-    // '/gallery/30.webp'
+    '/gallery/30.webp'
 ]
 
 // <div className="flex flex-col md:flex-row gap-10">
