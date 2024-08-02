@@ -70,7 +70,7 @@ const LanguageSelector = ({ lan }) =>{
                             </p>
                         })}
                     </div>
-                    <span className="mt-2 text-xs text-center leading-none cursor-pointer uppercase underline whitespace-nowrap" onClick={() => setIsOpen(false)}>
+                    <span className="mt-2 text-xs text-center leading-none cursor-pointer uppercase underline whitespace-nowrap hover:font-semibold" onClick={() => setIsOpen(false)}>
                         X close
                     </span>
                 </div>
