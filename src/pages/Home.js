@@ -2,6 +2,7 @@ import React from "react";
 import { useState } from "react";
 
 import video from '../images/LES_PROMESSES.mp4'
+// import videoMobile from '../images/videoMobile.mp4'
 
 import no_collections_1 from '../images/no_collections/1.png'
 import no_collections_2 from '../images/no_collections/2.jpg'
@@ -9,7 +10,6 @@ import no_collections_3 from '../images/no_collections/3.jpg'
 import celine from '../images/celine.jpeg'
 
 import conosciamoci from '../images/conosciamoci/1.jpg'
-// import conosciamociMobile from '../images/conosciamoci/DSC00663.jpg'
 import conosciamociMobile from '../images/conosciamoci/2.jpg'
 
 import provaLaTela from '../images/prova_la_tela/2.jpg'
@@ -38,19 +38,22 @@ const Home = ({ t }) => {
     const thirdStep = t("thirdStep")
     const presentation = t("presentation")
     const contactForm = t("contactForm")
-    
-    // console.log(contactForm.formName)
 
     return(
         <div id="video-lp" className="Home flex flex-col gap-10 md:gap-36">
             {/* EPIGRAMMA */}
             <div className="flex flex-col justify-center items-center font-light mt-5">
                     <p className="text-2xl md:text-4xl my-3 uppercase">{epigramma}</p>
-                <div className="w-full h-[64vh] md:h-[70vh]">
+                <div className="md:w-full h-[64vh] md:h-[70vh]">
                     <video autoPlay loop muted playsInline className="h-full w-full object-cover">
                         <source src={video} type="video/mp4" />
                     </video>
                 </div>
+                {/* <div className="md:hidden md:!visible w-full h-[64vh]">
+                    <video autoPlay loop muted playsInline className="h-full w-full object-cover">
+                        <source src={videoMobile} type="video/mp4" />
+                    </video>
+                </div> */}
             </div>
 
             {/* NO-COLLECTIONS */}
