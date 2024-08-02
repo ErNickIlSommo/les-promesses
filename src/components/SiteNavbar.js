@@ -45,13 +45,13 @@ const SiteNavbar = ({ t }) => {
                         </Link>
                     </div>
                     <div className="gap-10 uppercase items-center flex" id="navbarSupportedContent1" data-twe-collapse-item>
-                        <Link smooth className="" to="/#"><p>{ home }</p></Link>
-                        <Link smooth  className="" to="/gallery"><p>{ gallery }</p></Link>
-                        <Link smooth className="" to="/#who"><p>{ whoWeAre }</p></Link>
+                        <Link smooth className="select-none" to="/#"><p>{ home }</p></Link>
+                        <Link smooth  className="select-none" to="/gallery"><p>{ gallery }</p></Link>
+                        <Link smooth className="select-none" to="/#who"><p>{ whoWeAre }</p></Link>
                         <LanguageSelector lan={"IT"} />
 
                         <Link smooth  to="/#form">
-                            <div className="font-semibold px-3 py-1 border border-black rounded-sm cursor-pointer">{ cta }</div>
+                            <div className="font-semibold px-3 py-1 border border-black rounded-sm cursor-pointer select-none">{ cta }</div>
                         </Link>
                     </div> 
             </div>
