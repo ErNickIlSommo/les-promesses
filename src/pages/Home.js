@@ -1,8 +1,8 @@
 import React from "react";
-import { useState } from "react";
+import { useState, useEffect } from "react";
 
 import video from '../images/LES_PROMESSES.mp4'
-// import videoMobile from '../images/videoMobile.mp4'
+import videoMobile from '../images/videoMobile.mp4'
 
 import no_collections_1 from '../images/no_collections/1.png'
 import no_collections_2 from '../images/no_collections/2.jpg'
@@ -23,6 +23,18 @@ import contatto2 from '../images/contatto/form2.png'
 import { Link } from "react-router-dom";
 
 const Home = ({ t }) => {
+    const [isMobile, setIsMobile] = useState(window.innerWidth <= 768);
+    useEffect(() => {
+        const handleResize = () => {
+          setIsMobile(window.innerWidth <= 768);
+        };
+    
+        window.addEventListener('resize', handleResize);
+    
+        return () => {
+          window.removeEventListener('resize', handleResize);
+        };
+    }, []);
 
     const [isChecked, setIsChecked] = useState(false)
 
@@ -46,14 +58,9 @@ const Home = ({ t }) => {
                     <p className="text-2xl md:text-4xl my-3 uppercase">{epigramma}</p>
                 <div className="md:w-full h-[64vh] md:h-[70vh]">
                     <video autoPlay loop muted playsInline className="h-full w-full object-cover">
-                        <source src={video} type="video/mp4" />
+                        <source src={isMobile ? videoMobile : video} type="video/mp4" />
                     </video>
                 </div>
-                {/* <div className="md:hidden md:!visible w-full h-[64vh]">
-                    <video autoPlay loop muted playsInline className="h-full w-full object-cover">
-                        <source src={videoMobile} type="video/mp4" />
-                    </video>
-                </div> */}
             </div>
 
             {/* NO-COLLECTIONS */}
