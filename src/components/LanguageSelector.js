@@ -38,7 +38,7 @@ const LanguageSelector = ({ lan }) => {
     <div className="relative inline-block text-left" onClick={toggleDropdown}>
       <div className="">
         <p className="inline-flex justify-center w-full focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-offset-gray-100 focus:ring-indigo-500 select-none cursor-pointer">
-          {lang ? lang : ""}
+          {lang}
         </p>
       </div>
       {isOpen && (
