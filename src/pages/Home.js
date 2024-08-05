@@ -23,18 +23,18 @@ import contatto2 from '../images/contatto/form2.png'
 import { Link } from "react-router-dom";
 
 const Home = ({ t }) => {
-    const [isMobile, setIsMobile] = useState(window.innerWidth <= 768);
-    useEffect(() => {
-        const handleResize = () => {
-          setIsMobile(window.innerWidth <= 768);
-        };
+    // const [isMobile, setIsMobile] = useState(window.innerWidth <= 768);
+    // useEffect(() => {
+    //     const handleResize = () => {
+    //       setIsMobile(window.innerWidth <= 768);
+    //     };
     
-        window.addEventListener('resize', handleResize);
+    //     window.addEventListener('resize', handleResize);
     
-        return () => {
-          window.removeEventListener('resize', handleResize);
-        };
-    }, []);
+    //     return () => {
+    //       window.removeEventListener('resize', handleResize);
+    //     };
+    // }, []);
 
     const [isChecked, setIsChecked] = useState(false)
 
@@ -58,7 +58,7 @@ const Home = ({ t }) => {
                     <p className="text-2xl md:text-4xl my-3 uppercase">{epigramma}</p>
                 <div className="md:w-full h-[64vh] md:h-[70vh]">
                     <video autoPlay loop muted playsInline className="h-full w-full object-cover">
-                        <source src={isMobile ? videoMobile : video} type="video/mp4" />
+                        <source src={video} type="video/mp4" />
                     </video>
                 </div>
             </div>
