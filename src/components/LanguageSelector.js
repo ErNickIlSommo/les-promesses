@@ -14,7 +14,7 @@ const LanguageSelector = ({ lan }) => {
 
   const startLan = languages.find((item) => item.code === i18n.language);
 
-  const [lang, setLang] = useState(startLan?.lang);
+  const [lang, setLang] = useState(startLan?.lang || "Ita");
   const [isOpen, setIsOpen] = useState(false);
 
   const toggleDropdown = () => {
