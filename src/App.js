@@ -9,15 +9,16 @@ import NoPage from "./pages/NoPage";
 
 import SiteNavbar from "./components/SiteNavbar";
 import SiteSideBar from "./components/SiteSideBar";
+import ScrollToHash from "./components/ScrollToHash";
 
 import SiteFooter from "./components/SiteFooter";
 import Confirm from "./pages/Confirm";
 import Privacy from "./pages/Privacy";
 import { useEffect } from "react";
 
-
 function App() {
-  const { t } = useTranslation()
+  const { t } = useTranslation();
+
   // const { i18n } = useTranslation()
 
   // useEffect(() => {
@@ -36,6 +37,7 @@ function App() {
   return (
     <div className="App overflow-x-hidden bg-[#D9D8D7]">
       <BrowserRouter>
+        <ScrollToHash />
         <SiteNavbar t={t} />
         {/* <SiteSideBar /> */}
         <div className="min-h-screen flex flex-col justify-between ">
@@ -45,11 +47,11 @@ function App() {
               {/* <Route path="/inspiration" element={<Inspiration />} /> */}
               <Route path="/gallery" element={<Gallery t={t} />} />
               <Route path="/confirm" element={<Confirm t={t} />} />
-              <Route path="/privacy" element={<Privacy t={t}/>} />
+              <Route path="/privacy" element={<Privacy t={t} />} />
               <Route path="*" element={<NoPage t={t} />} />
             </Routes>
           </div>
-          <SiteFooter t={t}/>
+          <SiteFooter t={t} />
         </div>
       </BrowserRouter>
     </div>

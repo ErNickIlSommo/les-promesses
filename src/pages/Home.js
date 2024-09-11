@@ -21,6 +21,7 @@ import abito3 from "../images/indossa_il_tuo_abito/3.jpg";
 import contatto1 from "../images/contatto/form1.png";
 import contatto2 from "../images/contatto/form2.png";
 import { Link } from "react-router-dom";
+import { HashLink } from "react-router-hash-link";
 
 const Home = ({ t }) => {
   const [isMobile, setIsMobile] = useState(window.innerWidth <= 768);
