@@ -1,204 +1,204 @@
 {
-    "navBar": {
-        "home": "Home",
-        "gallery": "Galleria",
-        "whoWeAre": "Chi siamo",
-        "cta": "Contattaci"
-    },
-    "epigramma": "creiamo da zero il tuo abito da sposa, dal disegno al vestito.",
-    "noCollection": {
-        "title": "No collezioni",
-        "title2": "Solo pezzi unici.",
-        "description": "Ci immergiamo nei tuoi sogni ed ascoltiamo la tua storia. Ogni singolo dettaglio verrà personalizzato per far emergere la tua unicità. La nostra creatività non ha confini e ci impegneremo con passione finché il tuo abito non sarà l'espressione perfetta di te stessa."
-    },
-    "firstStep": {
-        "title": "Il primo incontro,",
-        "title2": "per conoscerci.",
-        "description": "In questa prima fase potrai descriverci le idee che avevi in mente per il tuo abito e lo stile che ti fa sentire a tuo agio. Avrai una consulenza completa sulla tua silhouette e su quali materiali orientarci per esprimere ciò che desideri, considerando anche la location e lo stile complessivo del tuo matrimonio.",
-        "faqs": {
-            "faq1": {
-                "question": "Dove siete?",
-                "answer": " Il nostro Atelier si trova a Monza, alle porte di Milano. In alternativa, possiamo organizzare una prima videocall (parliamo italiano, francese e inglese)"
-            },
-            "faq2": {
-                "question": "Potrò provare degli abiti?",
-                "answer": "Certo! Si tratta di prototipi realizzati per aiutarti a trovare idee e ispirazioni, toccare con mano i materiali e capire cosa potrebbe fare al caso tuo"
-            },
-            "faq3": {
-                "question": "Se al termine dell'incontro non fossi convinta?",
-                "answer": "Nessun problema. Ci ha fatto piacere conoscerti, aver bevuto insieme un aperitivo e averti fornito alcuni spunti interessanti"
-            },
-            "faq4": {
-                "question": "Se decidessi di proseguire?",
-                "answer": "Siamo contenti di poter cominciare insieme questa esperienza! Inizieremo a condividere disegni, bozze e proposte per preparare la tua tela"
-            }
-        }
-    },
-    "secondStep": {
-        "title": "Prova la tela,",
-        "title2": "qui in atelier.",
-        "description": "L'idea inizia a prendere forma. Dopo qualche settimana indosserai la tua tela, cioè il primo prototipo che rispecchierà le forme, le misure e le idee finora condivise. Insieme andremo poi a definire tutto il resto: tessuto, ricami, accessori, fino all’ultimo dettaglio.",
-        "faqs": {
-            "faq1": {
-                "question": "Se volessi aggiungere o modificare degli elementi?",
-                "answer": "Tutto si può modificare, aggiungere o togliere. Il tuo abito dovrà avere tutto ciò che serve"
-            },
-            "faq2": {
-                "question": "Posso avere un abito in seta italiana dipinta a mano?",
-                "answer": "Certo!"
-            },
-            "faq3": {
-                "question": "Posso avere pizzi francesi di Alta Moda sviluppati ad hoc?",
-                "answer": "Certo!"
-            },
-            "faq4": {
-                "question": "Posso avere anche ricami a mano personalizzati?",
-                "answer": "Certo, tutto si può fare. Il tuo sarà un vero abito artigianale, su misura, e Made in Italy"
-            }
-        }
-    },
-    "thirdStep": {
-        "title": "Indossa il tuo abito.",
-        "faqs": {
-            "faq1": {
-                "question": "Quanto tempo dovrò aspettare per avere il mio abito?",
-                "answer": "3 mesi. Per alcune lavorazioni molto particolari o per modifiche dell'ultimo minuto, tuttavia, potrebbe servire qualche settimana in più"
-            },
-            "faq2": {
-                "question": "Se l'abito che vorrei dovesse costare troppo rispetto a quanto preventivato?",
-                "answer": "Siamo consapevoli che, a volte, i nostri desideri devono fermarsi dinanzi a costi proibitivi. Noi siamo qui per aiutarti, guidandoti dall’inizio alla fine in ogni singola scelta, proponendo sempre valide alternative che ti permettano di non scendere a compromessi con il tuo sogno"
-            },
-            "faq3": {
-                "question": "Indicativamente, a quanto ammonta il costo?",
-                "answer": "Dipende. La scelta del tipo di materiali, tessuti, accessori, o di specifiche lavorazioni può incidere sensibilmente sul prezzo finale. Possiamo anticiparti che la maggior parte delle nostre clienti ha realizzato il proprio abito ad una cifra complessiva compresa fra i 5 e i 7k"
-            }
-        }
-    },
-    "presentation": {
-        "title": "mi presento",
-        "description": {
-            "line1": "Sono Celine, da 20 anni lavoro nel mondo della moda, Haute Couture e Pret à Porter, prima a Parigi poi a Milano.",
-            "line2": "In questi anni ho avuto il privilegio di lavorare a fianco di grandi artisti che mi hanno insegnato come la bellezza possa esprimersi dall'abito che indossi, vestendo celebrità internazionali per eventi speciali e preparando sfilate per l'Alta Moda.",
-            "line3": "Insieme a Michele, il mio partner, abbiamo pensato fosse giunto il momento di mettere a disposizione questo bagaglio di esperienze e competenze a chiunque l'avesse desiderato. Offrire un servizio di Alta Moda per una donna che ha sempre sognato il proprio abito, pensato e creato.",
-            "line4": "Se hai sempre desiderato avere una tua creazione, unica, artigianale e su misura, vienici a trovare e parliamone assieme."
-        }
-    },
-    "contactForm": {
-        "title": "mettiamoci",
-        "title2": "in contatto",
-        "formName": "Inserisci il tuo nome",
-        "formEmail": "Inserisci la tua email",
-        "formMessage": "Scrivi qui il tuo messaggio",
-        "privacy": {
-            "line1": "Ho preso visione dell'",
-            "line2": "Informativa sulla Privacy"
-        },
-        "disclamer": "Garantiamo una risposta entro 2 giorni lavorativi.",
-        "cta": "contattaci"
-    },
-    "gallery": {
-        "line1": "Dalle piccole cose,",
-        "line2": "ispirazioni."
-    },
-    "confirmPage": {
-        "line1": "Grazie per averci contattato.",
-        "line2": "Ti risponderemo entro due giorni lavorativi."
-    },
-    "footer": {
-        "navigation": {
-            "title": "Navigazione"
-        },
-        "contacts": {
-            "title": "Contatti"
-        },
-        "social": {
-            "title": "Social"
-        },
-        "credits": {
-            "title": "Crediti",
-            "line1": "Foto di Sara Bazzeghini",
-            "line2": "Foto e video di Matteo Mangano",
-            "line3": "Sito realizzato da Nicola Gianuzzi e",
-            "line3b": "Raffaele Crocco",
-            "line4": "Grazie a Veronica Dibenedetto e Luca Malaguti"
-        },
-        "information": {
-            "title": "Informazioni",
-            "line1": "P. IVA 04165690241",
-            "line2": "Informativa sulla Privacy"
-        }
-    },
-    "pageNotFound": {
-        "line1": "Pagina non trovata"
-    },
-    "privacy": {
-        "title": "Informativa sulla privacy",
-        "welcome": "Benvenuti sul sito",
-        "section1": {
-            "line1": "Titolare del Trattamento",
-            "line2": "con sede legale in via Buonarroti, 28 – 20900 – Monza (MB), P. IVA 04165690241 (di seguito, “LES PROMESSES”) tutela la riservatezza dei dati personali degli utenti e garantisce la protezione necessaria da ogni rischio di violazione."
-        },
-        "section2": {
-            "line1": "La policy",
-            "line2": "LES PROMESSES rispetta il diritto degli utenti di essere informati sulla raccolta e sul trattamento dei propri dati personali. Per domande o esigenze legate alla privacy, contattaci all’indirizzo:"
-        },
-        "section3": {
-            "line1": "RESPONSABILE DELLA PROTEZIONE DEI DATI (DPO)",
-            "line2": "LES PROMESSES non ha nominato un Responsabile della Protezione dei Dati (DPO), ma è disponibile per ogni chiarimento riguardo il trattamento dei dati."
-        },
-        "section4": {
-            "line1": "DATI PERSONALI TRATTATI",
-            "line2": "I dati personali trattati includono quelli forniti dagli utenti al momento dell'acquisto e quelli raccolti durante la navigazione, come:",
-            "line3": "Dati anagrafici (nome, cognome, indirizzo)",
-            "line4": "Dati di contatto (email, numero di telefono)",
-            "line5": "Dati di pagamento",
-            "line6": "Dati di navigazione e cookie"
-        },
-        "section5": {
-            "line1": "FINALITÀ DEL TRATTAMENTO",
-            "line2": "I dati sono raccolti e trattati per le seguenti finalità:",
-            "line3": "Esecuzione di contratti e acquisti",
-            "line4": "Invio di newsletter e comunicazioni commerciali",
-            "line5": "Assistenza clienti"
-        },
-        "section6": {
-            "line1": "BASE GIURIDICA DEL TRATTAMENTO",
-            "line2": "Il trattamento dei dati personali si basa su:",
-            "line3": "Esecuzione di un contratto",
-            "line4": "Consenso dell'utente",
-            "line5": "Obblighi legali"
-        },
-        "section7": {
-            "line1": "CONSERVAZIONE DEI DATI",
-            "line2": "I dati saranno conservati fino a quando necessari per le finalità per cui sono stati raccolti. In caso di richiesta di cancellazione, procederemo tempestivamente."
-        },
-        "section8": {
-            "line1": "DIRITTI DELL'INTERESSATO",
-            "line2": "Gli utenti hanno il diritto di:",
-            "line3": "Accedere ai propri dati",
-            "line4": "Richiedere la rettifica o la cancellazione",
-            "line5": "Opporsi al trattamento dei dati",
-            "line6": "Per esercitare i diritti, contattaci a"
-        },
-        "section9": {
-            "line1": "TRASFERIMENTO DEI DATI",
-            "line2": "Non trasferiremo i dati personali a paesi terzi o organizzazioni internazionali, salvo diversa comunicazione."
-        },
-        "section10": {
-            "line1": "MISURE DI SICUREZZA",
-            "line2": "Adottiamo misure di sicurezza appropriate per proteggere i dati personali da accessi non autorizzati o trattamenti illeciti."
-        },
-        "section11": {
-            "line1": "MODIFICHE ALL'INFORMATIVA",
-            "line2": "LES PROMESSES si riserva il diritto di modificare questa informativa. Le eventuali modifiche saranno pubblicate su questa pagina."
-        },
-        "section12": {
-            "line1": "RECLAMO ALL’AUTORITÀ COMPETENTE",
-            "line2": "In caso di violazione dei diritti, è possibile presentare un reclamo all'Autorità Garante per la Protezione dei Dati Personali."
-        },
-        "section13": {
-            "line1": "CONTATTI",
-            "line2": "Per ulteriori informazioni, contattaci all'indirizzo:"
-        }
+  "navBar": {
+    "home": "Home",
+    "gallery": "Galleria",
+    "whoWeAre": "Chi siamo",
+    "cta": "Contattaci"
+  },
+  "epigramma": "creiamo da zero il tuo abito da sposa, dal disegno al vestito.",
+  "noCollection": {
+    "title": "No collezioni",
+    "title2": "Solo pezzi unici.",
+    "description": "Ci immergiamo nei tuoi sogni ed ascoltiamo la tua storia. Ogni singolo dettaglio verrà personalizzato per far emergere la tua unicità. La nostra creatività non ha confini e ci impegneremo con passione finché il tuo abito non sarà l'espressione perfetta di te stessa."
+  },
+  "firstStep": {
+    "title": "Il primo incontro,",
+    "title2": "per conoscerci.",
+    "description": "In questa prima fase potrai descriverci le idee che avevi in mente per il tuo abito e lo stile che ti fa sentire a tuo agio. Avrai una consulenza completa sulla tua silhouette e su quali materiali orientarci per esprimere ciò che desideri, considerando anche la location e lo stile complessivo del tuo matrimonio.",
+    "faqs": {
+      "faq1": {
+        "question": "Dove siete?",
+        "answer": " Il nostro Atelier si trova a Monza, alle porte di Milano. In alternativa, possiamo organizzare una prima videocall (parliamo italiano, francese e inglese)"
+      },
+      "faq2": {
+        "question": "Potrò provare degli abiti?",
+        "answer": "Certo! Si tratta di prototipi realizzati per aiutarti a trovare idee e ispirazioni, toccare con mano i materiali e capire cosa potrebbe fare al caso tuo"
+      },
+      "faq3": {
+        "question": "Se al termine dell'incontro non fossi convinta?",
+        "answer": "Nessun problema. Ci ha fatto piacere conoscerti, aver bevuto insieme un aperitivo e averti fornito alcuni spunti interessanti"
+      },
+      "faq4": {
+        "question": "Se decidessi di proseguire?",
+        "answer": "Siamo contenti di poter cominciare insieme questa esperienza! Inizieremo a condividere disegni, bozze e proposte per preparare la tua tela"
+      }
     }
+  },
+  "secondStep": {
+    "title": "Prova la tela,",
+    "title2": "qui in atelier.",
+    "description": "L'idea inizia a prendere forma. Dopo qualche settimana indosserai la tua tela, cioè il primo prototipo che rispecchierà le forme, le misure e le idee finora condivise. Insieme andremo poi a definire tutto il resto: tessuto, ricami, accessori, fino all’ultimo dettaglio.",
+    "faqs": {
+      "faq1": {
+        "question": "Se volessi aggiungere o modificare degli elementi?",
+        "answer": "Tutto si può modificare, aggiungere o togliere. Il tuo abito dovrà avere tutto ciò che serve"
+      },
+      "faq2": {
+        "question": "Posso avere un abito in seta italiana dipinta a mano?",
+        "answer": "Certo!"
+      },
+      "faq3": {
+        "question": "Posso avere pizzi francesi di Alta Moda sviluppati ad hoc?",
+        "answer": "Certo!"
+      },
+      "faq4": {
+        "question": "Posso avere anche ricami a mano personalizzati?",
+        "answer": "Certo, tutto si può fare. Il tuo sarà un vero abito artigianale, su misura, e Made in Italy"
+      }
+    }
+  },
+  "thirdStep": {
+    "title": "Indossa il tuo abito.",
+    "faqs": {
+      "faq1": {
+        "question": "Quanto tempo dovrò aspettare per avere il mio abito?",
+        "answer": "4 mesi. Per alcune lavorazioni molto particolari o per modifiche dell'ultimo minuto, tuttavia, potrebbe servire qualche settimana in più"
+      },
+      "faq2": {
+        "question": "Se l'abito che vorrei dovesse costare troppo rispetto a quanto preventivato?",
+        "answer": "Siamo consapevoli che, a volte, i nostri desideri devono fermarsi dinanzi a costi proibitivi. Noi siamo qui per aiutarti, guidandoti dall’inizio alla fine in ogni singola scelta, proponendo sempre valide alternative che ti permettano di non scendere a compromessi con il tuo sogno"
+      },
+      "faq3": {
+        "question": "Indicativamente, a quanto ammonta il costo?",
+        "answer": "Dipende. La scelta del tipo di materiali, tessuti, accessori, o di specifiche lavorazioni può incidere sensibilmente sul prezzo finale. Possiamo anticiparti che la maggior parte delle nostre clienti ha realizzato il proprio abito ad una cifra complessiva compresa fra i 5 e i 7k"
+      }
+    }
+  },
+  "presentation": {
+    "title": "mi presento",
+    "description": {
+      "line1": "Sono Celine, da 20 anni lavoro nel mondo della moda, Haute Couture e Pret à Porter, prima a Parigi poi a Milano.",
+      "line2": "In questi anni ho avuto il privilegio di lavorare a fianco di grandi artisti che mi hanno insegnato come la bellezza possa esprimersi dall'abito che indossi, vestendo celebrità internazionali per eventi speciali e preparando sfilate per l'Alta Moda.",
+      "line3": "Insieme a Michele, il mio partner, abbiamo pensato fosse giunto il momento di mettere a disposizione questo bagaglio di esperienze e competenze a chiunque l'avesse desiderato. Offrire un servizio di Alta Moda per una donna che ha sempre sognato il proprio abito, pensato e creato.",
+      "line4": "Se hai sempre desiderato avere una tua creazione, unica, artigianale e su misura, vienici a trovare e parliamone assieme."
+    }
+  },
+  "contactForm": {
+    "title": "mettiamoci",
+    "title2": "in contatto",
+    "formName": "Inserisci il tuo nome",
+    "formEmail": "Inserisci la tua email",
+    "formMessage": "Scrivi qui il tuo messaggio",
+    "privacy": {
+      "line1": "Ho preso visione dell'",
+      "line2": "Informativa sulla Privacy"
+    },
+    "disclamer": "Garantiamo una risposta entro 2 giorni lavorativi.",
+    "cta": "contattaci"
+  },
+  "gallery": {
+    "line1": "Dalle piccole cose,",
+    "line2": "ispirazioni."
+  },
+  "confirmPage": {
+    "line1": "Grazie per averci contattato.",
+    "line2": "Ti risponderemo entro due giorni lavorativi."
+  },
+  "footer": {
+    "navigation": {
+      "title": "Navigazione"
+    },
+    "contacts": {
+      "title": "Contatti"
+    },
+    "social": {
+      "title": "Social"
+    },
+    "credits": {
+      "title": "Crediti",
+      "line1": "Foto di Sara Bazzeghini",
+      "line2": "Foto e video di Matteo Mangano",
+      "line3": "Sito realizzato da Nicola Gianuzzi e",
+      "line3b": "Raffaele Crocco",
+      "line4": "Grazie a Veronica Dibenedetto e Luca Malaguti"
+    },
+    "information": {
+      "title": "Informazioni",
+      "line1": "P. IVA 04165690241",
+      "line2": "Informativa sulla Privacy"
+    }
+  },
+  "pageNotFound": {
+    "line1": "Pagina non trovata"
+  },
+  "privacy": {
+    "title": "Informativa sulla privacy",
+    "welcome": "Benvenuti sul sito",
+    "section1": {
+      "line1": "Titolare del Trattamento",
+      "line2": "con sede legale in via Buonarroti, 28 – 20900 – Monza (MB), P. IVA 04165690241 (di seguito, “LES PROMESSES”) tutela la riservatezza dei dati personali degli utenti e garantisce la protezione necessaria da ogni rischio di violazione."
+    },
+    "section2": {
+      "line1": "La policy",
+      "line2": "LES PROMESSES rispetta il diritto degli utenti di essere informati sulla raccolta e sul trattamento dei propri dati personali. Per domande o esigenze legate alla privacy, contattaci all’indirizzo:"
+    },
+    "section3": {
+      "line1": "RESPONSABILE DELLA PROTEZIONE DEI DATI (DPO)",
+      "line2": "LES PROMESSES non ha nominato un Responsabile della Protezione dei Dati (DPO), ma è disponibile per ogni chiarimento riguardo il trattamento dei dati."
+    },
+    "section4": {
+      "line1": "DATI PERSONALI TRATTATI",
+      "line2": "I dati personali trattati includono quelli forniti dagli utenti al momento dell'acquisto e quelli raccolti durante la navigazione, come:",
+      "line3": "Dati anagrafici (nome, cognome, indirizzo)",
+      "line4": "Dati di contatto (email, numero di telefono)",
+      "line5": "Dati di pagamento",
+      "line6": "Dati di navigazione e cookie"
+    },
+    "section5": {
+      "line1": "FINALITÀ DEL TRATTAMENTO",
+      "line2": "I dati sono raccolti e trattati per le seguenti finalità:",
+      "line3": "Esecuzione di contratti e acquisti",
+      "line4": "Invio di newsletter e comunicazioni commerciali",
+      "line5": "Assistenza clienti"
+    },
+    "section6": {
+      "line1": "BASE GIURIDICA DEL TRATTAMENTO",
+      "line2": "Il trattamento dei dati personali si basa su:",
+      "line3": "Esecuzione di un contratto",
+      "line4": "Consenso dell'utente",
+      "line5": "Obblighi legali"
+    },
+    "section7": {
+      "line1": "CONSERVAZIONE DEI DATI",
+      "line2": "I dati saranno conservati fino a quando necessari per le finalità per cui sono stati raccolti. In caso di richiesta di cancellazione, procederemo tempestivamente."
+    },
+    "section8": {
+      "line1": "DIRITTI DELL'INTERESSATO",
+      "line2": "Gli utenti hanno il diritto di:",
+      "line3": "Accedere ai propri dati",
+      "line4": "Richiedere la rettifica o la cancellazione",
+      "line5": "Opporsi al trattamento dei dati",
+      "line6": "Per esercitare i diritti, contattaci a"
+    },
+    "section9": {
+      "line1": "TRASFERIMENTO DEI DATI",
+      "line2": "Non trasferiremo i dati personali a paesi terzi o organizzazioni internazionali, salvo diversa comunicazione."
+    },
+    "section10": {
+      "line1": "MISURE DI SICUREZZA",
+      "line2": "Adottiamo misure di sicurezza appropriate per proteggere i dati personali da accessi non autorizzati o trattamenti illeciti."
+    },
+    "section11": {
+      "line1": "MODIFICHE ALL'INFORMATIVA",
+      "line2": "LES PROMESSES si riserva il diritto di modificare questa informativa. Le eventuali modifiche saranno pubblicate su questa pagina."
+    },
+    "section12": {
+      "line1": "RECLAMO ALL’AUTORITÀ COMPETENTE",
+      "line2": "In caso di violazione dei diritti, è possibile presentare un reclamo all'Autorità Garante per la Protezione dei Dati Personali."
+    },
+    "section13": {
+      "line1": "CONTATTI",
+      "line2": "Per ulteriori informazioni, contattaci all'indirizzo:"
+    }
+  }
 }

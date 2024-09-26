@@ -59,12 +59,6 @@ const SiteFooter = ({ t }) => {
           >
             <img src={instagram} alt="instagram" className="h-6 w-6" />
           </a>
-          {/* <a
-            href="https://www.instagram.com/weddingdress_les_promesses/"
-            target="_blank"
-          >
-            <img src={facebook} alt="facebook" className="h-6 w-6" />
-          </a> */}
           <a
             href="https://it.pinterest.com/weddingdress_les_promesses/"
             target="_blank"
