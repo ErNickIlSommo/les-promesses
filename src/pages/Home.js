@@ -22,6 +22,7 @@ import contatto1 from "../images/contatto/form1.png";
 import contatto2 from "../images/contatto/form2.png";
 import { Link } from "react-router-dom";
 import { HashLink } from "react-router-hash-link";
+import LazyImage from "../components/LazyImage";
 
 const Home = ({ t }) => {
   const [isMobile, setIsMobile] = useState(window.innerWidth <= 768);
@@ -92,6 +93,7 @@ const Home = ({ t }) => {
               className="h-full w-full object-cover"
               src={no_collections_1}
               alt=""
+              loading="lazy"
             />
           </div>
           <div className="h-[800px] hidden md:block md:w-[30%]">
@@ -99,6 +101,7 @@ const Home = ({ t }) => {
               className="h-full w-full object-cover"
               src={no_collections_2}
               alt=""
+              loading="lazy"
             />
           </div>
           <div className="bg-black h-[800px] w-full md:w-[30%]">
@@ -106,6 +109,7 @@ const Home = ({ t }) => {
               className="h-full w-full object-cover opacity-50 md:opacity-100"
               src={no_collections_3}
               alt=""
+              loading="lazy"
             />
           </div>
         </div>
@@ -149,17 +153,17 @@ const Home = ({ t }) => {
         </div>
 
         <div className="hidden h-full lg:w-1/2 lg:flex items-center">
-          <img src={conosciamoci} />
+          <img src={conosciamoci} loading="lazy" />
         </div>
         <div className="lg:hidden w-full flex items-center">
-          <img src={conosciamociMobile} />
+          <img src={conosciamociMobile} loading="lazy" />
         </div>
       </div>
 
       {/* PROVA LA TELA */}
       <div className="w-full flex flex-col lg:flex-row font-light">
         <div className="hidden h-full lg:w-1/2 lg:flex items-center">
-          <img src={provaLaTela} />
+          <img src={provaLaTela} loading="lazy" />
         </div>
         {/* <div className="lg:hidden w-full flex items-center"><img src={conosciamociMobile} /></div> */}
 
@@ -225,13 +229,13 @@ const Home = ({ t }) => {
             </div>
           </div>
           <div className="w-full md:w-1/4">
-            <img src={abito1} className="h-full object-cover" />
+            <img src={abito1} className="h-full object-cover" loading="lazy" />
           </div>
           <div className="w-full hidden md:block md:w-1/4">
-            <img src={abito2} className="h-full object-cover" />
+            <img src={abito2} className="h-full object-cover" loading="lazy" />
           </div>
           <div className="w-full hidden md:block md:w-1/4">
-            <img src={abito3} className="h-full object-cover" />
+            <img src={abito3} className="h-full object-cover" loading="lazy" />
           </div>
         </div>
       </div>
@@ -248,7 +252,7 @@ const Home = ({ t }) => {
           {/* <p className="text-4xl md:text-7xl pb-2 font-medium text-end uppercase">io sono celine.</p> */}
         </div>
         <div className="h-full lg:w-1/3">
-          <img src={celine} />
+          <img src={celine} loading="lazy" />
         </div>
         <div className="w-full h-full flex align-bottom lg:w-1/3 pb-10 ps-6">
           <p className="text-base mt-32 pb-10 pe-6">
@@ -271,7 +275,7 @@ const Home = ({ t }) => {
         className="w-full flex flex-col lg:flex-row font-light -mt-36 pt-36 md:-mt-32 md:pt-32"
       >
         <div className="hidden h-full lg:w-1/3 lg:flex items-center">
-          <img src={contatto1} />
+          <img src={contatto1} loading="lazy" />
         </div>
         <div className="w-full h-full lg:w-1/3 items-center">
           <p className="text-4xl md:text-7xl uppercase text-center">
@@ -362,7 +366,7 @@ const Home = ({ t }) => {
           </form>
         </div>
         <div className="hidden h-full lg:w-1/3 lg:flex items-center">
-          <img src={contatto2} />
+          <img src={contatto2} loading="lazy" />
         </div>
       </div>
     </div>
