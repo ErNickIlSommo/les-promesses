@@ -66,7 +66,7 @@ const Home = ({ t }) => {
             playsInline
             className="h-full w-full object-cover"
           >
-            <source src={isMobile ? videoMobile : video} type="video/mp4" />
+            <source src={isMobile ? videoMobile : video} type="video/webm" />
           </video>
         </div>
       </div>
