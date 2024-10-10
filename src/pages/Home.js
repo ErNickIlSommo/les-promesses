@@ -1,8 +1,8 @@
 import React from "react";
 import { useState, useEffect } from "react";
 
-import video from "../images/LES_PROMESSES.mp4";
-import videoMobile from "../images/videoMobile.mp4";
+import video from "../images/LES_PROMESSES.webm";
+import videoMobile from "../images/videoMobile.webm";
 
 import no_collections_1 from "../images/no_collections/1.png";
 import no_collections_2 from "../images/no_collections/2.jpg";
