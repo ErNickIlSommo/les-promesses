@@ -6,6 +6,7 @@ import Gallery from "./pages/Gallery";
 
 import Home from "./pages/Home";
 import NoPage from "./pages/NoPage";
+import Cookie from "./pages/Cookie";
 
 import SiteNavbar from "./components/SiteNavbar";
 import SiteSideBar from "./components/SiteSideBar";
@@ -48,6 +49,7 @@ function App() {
               <Route path="/gallery" element={<Gallery t={t} />} />
               <Route path="/confirm" element={<Confirm t={t} />} />
               <Route path="/privacy" element={<Privacy t={t} />} />
+              <Route path="/cookie" element={<Cookie t={t} />} />
               <Route path="*" element={<NoPage t={t} />} />
             </Routes>
           </div>
