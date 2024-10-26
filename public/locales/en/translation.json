@@ -133,72 +133,164 @@
   },
   "privacy": {
     "title": "Privacy policy",
-    "welcome": "Welcome to the site",
-    "section1": {
-      "line1": "Data Controller",
-      "line2": "with registered office in Via Buonarroti, 28 - 20900 - Monza (MB), VAT number 04165690241 (hereinafter, ‘LES PROMESSES’) protects the confidentiality of users' personal data and guarantees the necessary protection against any risk of violation."
+    "subTitle1": "Information provided pursuant to Art. 13 of Regulation (EU) 2016/679",
+    "subTitle2": "(General Data Protection Regulation – GDPR)",
+    "generalInfo": {
+      "title": "1. GENERAL INFORMATION",
+      "text": {
+        "t1": "In compliance with the provisions of Articles 12 and 13 of Regulation (EU) 2016/679 (General Data Protection Regulation – ",
+        "b1": "GDPR",
+        "t2": "), this page describes the processing of personal data carried out by the Data Controller, as defined in point 2 below, with regard to the data subjects involved in the processing listed below (",
+        "b2": "“data subjects”",
+        "t3": "). The information on this website does not refer to other processing operations carried out following the navigation of websites reached through links that may be present within it."
+      }
     },
-    "section2": {
-      "line1": "The policy",
-      "line2": "LES PROMESSES respects your right to be informed about the collection and processing of your personal data. For questions or needs related to privacy, please contact us at:"
+    "dataController": {
+      "title": "2. DATA CONTROLLER",
+      "text": "The Data Controller is Celine Beatrice Petit (hereinafter, “LES PROMESSES“), with registered office in via Buonarroti, 28 – 20900 – Monza (MB), telephone: [ ], e-mail:"
     },
-    "section3": {
-      "line1": "DATA PROTECTION OFFICER (DPO)",
-      "line2": "LES PROMESSES has not appointed a Data Protection Officer (DPO), but is available for any clarification regarding data processing."
+    "dataProtectionOfficier": {
+      "title": "3. DATA PROTECTION OFFICER",
+      "text": "The Data Controller has not appointed a Data Protection Officer (DPO), as it does not fall within the terms of the provisions of art. 37-39 GDPR 2016/679"
     },
-    "section4": {
-      "line1": "PERSONAL DATA PROCESSED",
-      "line2": "The personal data processed include those provided by users at the time of purchase and those collected during browsing, such as:",
-      "line3": "Personal data (name, surname, address)",
-      "line4": "Contact data (email, phone number)",
-      "line5": "Payment data",
-      "line6": "Browsing data and cookies"
+    "typesOfProcessing": {
+      "title": "4. TIPOLOGIE DI TRATTAMENTO",
+      "contactRequestData": {
+        "title": "4.1 CONTACT REQUEST DATA",
+        "description": "The management of contact requests, proposed by filling in the forms on this website, involves the acquisition of personal data of the interested party/user.",
+        "itemize": {
+          "item1": {
+            "title": "Purpose of the processing (Art. 13, par. 1, lett. c), GDPR)",
+            "description": "The personal data collected are used for the sole purpose of responding to the requests sent, and communicating with the data subject in any subsequent phases. The communication of some data is mandatory and indicated through special asterisks."
+          },
+          "item2": {
+            "title": "Categories of personal data",
+            "subItemize": {
+              "subItem1": "personal data (name),",
+              "subItem2": "contact details (e-mail address),",
+              "subItem3": "any other data/information entered in the request."
+            }
+          },
+          "item3": {
+            "title": "Lawfulness of processing (Art. 13, par. 1, lett. c), GDPR)",
+            "description": "The data are processed exclusively by authorized personnel, instructed in the processing and adequately trained. They may also be processed by other subjects, involved by the Data Controller for purposes related to the processing itself (support for the management of the website; consulting firms): these subjects have the role of data processors and have signed specific agreements with the Data Controller pursuant to art. 28, par. 3, GDPR. In any case, the personal data collected will not be disclosed to third parties, or disseminated or transferred outside the European Union/European Economic Area."
+          },
+          "item4": {
+            "title": "Scope of communication (Art. 13, par. 1, letters e) and f) of the GDPR)",
+            "description": "The data are processed exclusively by authorized personnel, instructed in the processing and adequately trained. They may also be processed by other subjects, involved by the Data Controller for purposes related to the processing itself (support for the management of the website; consulting firms): these subjects have the role of data processors and have signed specific agreements with the Data Controller pursuant to art. 28, par. 3, GDPR. In any case, the personal data collected will not be disclosed to third parties, or disseminated or transferred outside the European Union/European Economic Area."
+          },
+          "item5": {
+            "title": "Processing methods (Recital 39, GDPR)",
+            "description": "Personal data are processed lawfully, correctly and transparently, in compliance with the principles provided for by current legislation. The processing of personal data takes place through IT and automated tools. Taking into account the nature and characteristics of the processing, the Data Controller has adopted technical and organizational security measures aimed at limiting or excluding the risks of data loss, any unlawful or incorrect use, or unauthorized access."
+          },
+          "item6": {
+            "title": "Data retention period (Art. 13, par. 2, lett. a), GDPR)",
+            "description": "Personal data is kept for the time necessary for the management of the relationship with the applicant."
+          },
+          "item7": {
+            "title": "Nature of the provision (Art. 13, par. 2, lett. e), of the GDPR)",
+            "description": "The data are provided voluntarily by the data subjects. However, failure to provide them may affect the management of the request and the sending of feedback."
+          }
+        }
+      },
+      "contactCustomersSuppliers": {
+        "title": "4.2 CUSTOMERS AND SUPPLIERS AND THEIR CONTACT PERSONS",
+        "description": "As part of the performance of activities related to contractual relationships with customers and suppliers, personal data of these subjects may be processed.",
+        "itemize": {
+          "item1": {
+            "title": "Purpose of the processing (Art. 13, par. 1, lett. c), GDPR)",
+            "description": "The data are processed in order to:",
+            "subItemize": {
+              "subItem1": "conclude contractual/professional relationships,",
+              "subItem2": "to fulfil pre-contractual, contractual and regulatory obligations related to existing or future relationships, as well as to manage the necessary communications related to them;",
+              "subItem3": "exchange communications in relation to the contractual relationship established between the parties;",
+              "subItem4": "to comply with the obligations provided for by laws, regulations, European standards or orders of the Authority",
+              "subItem5": "exercising the legitimate interests or rights of the Data Controller (for example: right of defence in court; protection of credit positions; ordinary internal operational, managerial and accounting needs)."
+            }
+          },
+          "item2": {
+            "title": "Categories of personal data",
+            "subItemize": {
+              "subItem1": "personal data (name, surname, tax code/VAT number);",
+              "subItem2": "contact details (telephone number; e-mail/certified email address; domicile/registered office addresses);",
+              "subItem3": "data relating to the professional sphere (data relating to the company for which the data subject works);",
+              "subItem4": "bank and payment details."
+            }
+          },
+          "item3": {
+            "title": "Lawfulness of processing (Art. 13, par. 1, lett. c), GDPR)",
+            "description": "The processing activities for these purposes are carried out on the basis of various conditions of lawfulness: for the fulfilment of contracts or pre-contractual measures (Article 6, paragraph 1, letter b) of the GDPR); for compliance with legal obligations (Art. 6(1)(c) GDPR); for the pursuit of the legitimate interests of the Data Controller (e.g.: exercise or defense of rights in or out of court) (Article 6, paragraph 1, letter f), of the GDPR)."
+          },
+          "item4": {
+            "title": "Scope of communication (art.13, par. 1, lett. e) and f), of the GDPR)",
+            "description": "The data are processed exclusively by authorized personnel who are instructed in the processing and adequately trained. They may also be processed by other subjects, involved by the Data Controller for purposes related to the processing itself (e.g.: tax/tax consultants; law firms; public bodies and competent authorities; etc.). In some cases, these subjects have the role of data processors and have signed specific agreements with the Data Controller pursuant to art. 28, par. 3, GDPR. In specific cases (e.g. investigations and assessments), personal data may be made available to the competent authorities. In any case, personal data will not be disclosed to third parties, or disseminated or transferred outside the European Union/European Economic Area."
+          },
+          "item5": {
+            "title": "Processing methods (Recital 39, GDPR)",
+            "description": "Personal data are processed lawfully, correctly and transparently, in compliance with the principles provided for by current legislation. The relevant processing is carried out through IT and paper tools. Taking into account the nature and characteristics of the processing, the Data Controller has adopted technical and organizational security measures aimed at limiting or excluding the risks of data loss, any unlawful or incorrect use, or unauthorized access."
+          },
+          "item6": {
+            "title": "Data retention period (art.13, par. 2, lett. a), of the GDPR)",
+            "description": "The data are kept for the time strictly necessary for the fulfilment of contractual or regulatory obligations."
+          },
+          "item7": {
+            "title": "Nature of the provision (art.13, par. 2, lett. e), of the GDPR)",
+            "description": "The provision of data is mandatory for the fulfilment of the purposes described above"
+          }
+        }
+      },
+      "navigationData": {
+        "title": "4.3 BROWSING DATA",
+        "description": "The computer systems and software procedures used to operate this website acquire, during their normal operation, some personal data whose transmission is implicit in the use of Internet communication protocols. This category of data includes the IP addresses or domain names of the computers used by users who connect to the site, the URI (Uniform Resource Identifier) addresses of the resources requested, the time of the request, the method used to submit the request to the server, the size of the file obtained in response, the numerical code indicating the status of the response given by the server (successful, successful,  error, etc.) and other parameters related to the user's operating system and computing environment.",
+        "itemize": {
+          "item1": {
+            "title": "Purpose of the processing (Art. 13, par. 1, lett. c), GDPR)",
+            "description": "These data are used for the sole purpose of obtaining statistical information on the use of the site and to check its correct functioning. The data could also be used to ascertain responsibility in the event of hypothetical computer crimes against the site (legitimate interests of the owner)."
+          },
+          "item2": {
+            "title": "Lawfulness of processing (Art. 13, par. 1, lett. c), GDPR)",
+            "description": "The processing is necessary for the pursuit of the legitimate interests of the Data Controller in the security of its information system, and for the evaluation of the use of the website and its operation (Article 6, paragraph 1, letter f), of the GDPR)."
+          },
+          "item3": {
+            "title": "Scope of communication (art.13, par. 1, lett. e) and f), of the GDPR)",
+            "description": "The data are processed exclusively by authorized personnel who are instructed in the processing and adequately trained. They may also be processed by other subjects, involved by the Data Controller for purposes related to the processing itself (e.g. support for the management of information systems; of this website). In some cases, these subjects have the role of data processors and have signed specific agreements with the Data Controller pursuant to art. 28, par. 3, GDPR. The data may be communicated to the competent authorities in specific cases. In any case, personal data will not be disclosed to third parties, or disseminated or transferred outside the European Union/European Economic Area."
+          },
+          "item4": {
+            "title": "Processing methods (Recital 39, GDPR)",
+            "description": "Personal data are processed lawfully, correctly and transparently, in compliance with the principles provided for by current legislation. The processing is carried out using IT and automated tools. Taking into account the nature and characteristics of the processing, the Data Controller has adopted technical and organisational security measures aimed at limiting or excluding the risks of data loss, any unlawful or incorrect use, or unauthorised access."
+          },
+          "item5": {
+            "title": "Data retention period (Art. 13, par. 2, lett. a), GDPR)",
+            "description": "The data are normally stored for the fulfilment of the purposes indicated above, for short periods of time, with the exception of any extensions related to investigation activities."
+          },
+          "item6": {
+            "title": "Nature of the provision (art.13, par. 2, lett. e), of the GDPR)",
+            "description": "The provision of data is implicit in accessing and browsing the website. "
+          }
+        }
+      },
+      "cookie": {
+        "title": "4.4 COOKIE",
+        "description": "For more general information on cookies and how to enable and disable them, please consult the"
+      }
     },
-    "section5": {
-      "line1": "PURPOSE OF PROCESSING",
-      "line2": "Data are collected and processed for the following purposes:",
-      "line3": "Execution of contracts and procurement",
-      "line4": "Sending newsletters and commercial communications",
-      "line5": "Customer care"
-    },
-    "section6": {
-      "line1": "LEGAL BASIS FOR PROCESSING",
-      "line2": "The processing of personal data is based on:",
-      "line3": "Execution of a contract",
-      "line4": "User consent",
-      "line5": "Legal Obligations"
-    },
-    "section7": {
-      "line1": "DATA RETENTION",
-      "line2": "The data will be kept as long as it is necessary for the purpose for which it was collected. In the event of a request for deletion, we will proceed promptly."
-    },
-    "section8": {
-      "line1": "RIGHTS OF THE DATA SUBJECT",
-      "line2": "Users have the right to:",
-      "line3": "Accessing your data",
-      "line4": "Request rectification or cancellation",
-      "line5": "Objecting to data processing",
-      "line6": "To exercise your rights, please contact us at"
-    },
-    "section9": {
-      "line1": "DATA TRANSFER",
-      "line2": "We will not transfer personal data to third countries or international organisations, unless otherwise stated."
-    },
-    "section10": {
-      "line1": "SECURITY MEASURES",
-      "line2": "We take appropriate security measures to protect personal data against unauthorised access or unlawful processing."
-    },
-    "section11": {
-      "line1": "CHANGES TO THE POLICY",
-      "line2": "LES PROMESSES reserves the right to amend this policy. Any changes will be published on this page."
-    },
-    "section12": {
-      "line1": "COMPLAINT TO THE COMPETENT AUTHORITY",
-      "line2": "In caso di violazione dei diritti, è possibile presentare un reclamo all'Autorità Garante per la Protezione dei Dati Personali."
-    },
-    "section13": {
-      "line1": "CONTACTS",
-      "line2": "For further information, please contact us at:"
+    "rightsData": {
+      "title": "5. RIGHTS OF THE DATA SUBJECT (GDPR art. 15-22)",
+      "description": "At any time, the interested party may exercise the following rights:",
+      "itemize": {
+        "item1": "request confirmation of the existence of processing activities of their personal data.",
+        "item2": "obtain information about the purposes of the processing, the categories of personal data, the recipients or categories of recipients to whom the personal data have been or will be disclosed and the storage period (or, if this is not possible, the indication of the criteria that allow it to be determined).",
+        "item3": "obtain the rectification and deletion of data.",
+        "item4": "obtain, under the conditions and in the cases provided for by current legislation, the limitation of processing.",
+        "item5": "obtain, in the cases provided for by current legislation, the portability of the data, i.e. receiving them from a data controller, in a structured, commonly used and machine-readable format, also in order to transmit them to another data controller without hindrance.",
+        "item6": "in the cases provided for by current legislation, object to the processing at any time and also in the case of processing for direct marketing purposes.",
+        "item7": "lodge a complaint with the Guarantor for the protection of personal data, in accordance with the procedures provided for by this authority."
+      },
+      "description2": {
+        "text1": "Requests should be addressed to the Data Controller by writing to the e-mail address",
+        "text2": "processing described."
+      },
+      "updateDataDoc": "This information document is last updated at 21/10/24"
     }
   }
 }

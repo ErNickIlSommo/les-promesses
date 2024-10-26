@@ -132,73 +132,165 @@
     "line1": "Page non trouvée"
   },
   "privacy": {
-    "title": "Politique de confidentialité",
-    "welcome": "Bienvenue sur le site",
-    "section1": {
-      "line1": "Contrôleur de données",
-      "line2": "dont le siège est situé via Buonarroti, 28 - 20900 - Monza (MB), numéro de TVA 04165690241 (ci-après, « LES PROMESSES ») protège la confidentialité des données personnelles des utilisateurs et garantit la protection nécessaire contre tout risque de violation."
+    "title": "Informativa sulla privacy",
+    "subTitle1": "Informazioni fornite ai sensi dell’art. 13 del Regolamento (UE) 2016/679",
+    "subTitle2": "(Regolamento generale sulla protezione dei dati – GDPR)",
+    "generalInfo": {
+      "title": "1. Informazioni generali",
+      "text": {
+        "t1": "In adempimento alle previsioni degli artt. 12 e 13 del Regolamento (UE) 2016/679 (Regolamento generale sulla protezione dei dati – “",
+        "b1": "GDPR",
+        "t2": "), si descrivono in questa pagina i trattamenti dei dati personali effettuati dal Titolare del trattamento, come definito al punto 2 che segue, nei confronti degli interessati coinvolti nei trattamenti elencati di seguito (“",
+        "b2": "interessati”",
+        "t3": "). L’informativa del presente sito web non si riferisce ad altri trattamenti effettuati in seguito alla navigazione di siti internet raggiunti attraverso link eventualmente presenti al suo interno."
+      }
     },
-    "section2": {
-      "line1": "La politique",
-      "line2": "LES PROMESSES respecte votre droit d'être informé sur la collecte et le traitement de vos données personnelles. Pour toute question ou besoin relatif à la protection de la vie privée, veuillez nous contacter à l'adresse suivante :"
+    "dataController": {
+      "title": "2. Titolare del trattamento",
+      "text": "Il Titolare del trattamento è Celine Beatrice Petit (di seguito, “LES PROMESSES”), con sede legale in via Buonarroti, 28 – 20900 – Monza (MB), telefono: [ ], e-mail:"
     },
-    "section3": {
-      "line1": "DÉLÉGUÉ À LA PROTECTION DES DONNÉES (DPD)",
-      "line2": "LES PROMESSES n'a pas désigné de délégué à la protection des données (DPD), mais se tient à votre disposition pour toute clarification concernant le traitement des données."
+    "dataProtectionOfficier": {
+      "title": "3. RESPONSABILE DELLA PROTEZIONE DEI DATI",
+      "text": "Il Titolare del trattamento non ha designato un Responsabile della protezione dei dati (DPO), in quanto non rientra nei termini di quanto previsto dagli artt. 37-39 GDPR 2016/679"
     },
-    "section4": {
-      "line1": "DONNÉES PERSONNELLES TRAITÉES",
-      "line2": "Les données personnelles traitées sont celles fournies par les utilisateurs au moment de l'achat et celles collectées lors de la navigation, comme par exemple :",
-      "line3": "Données personnelles (nom, prénom, adresse)",
-      "line4": "Données de contact (courriel, numéro de téléphone)",
-      "line5": "Données de paiement",
-      "line6": "Données de navigation et cookies"
+    "typesOfProcessing": {
+      "title": "4. TIPOLOGIE DI TRATTAMENTO",
+      "contactRequestData": {
+        "title": "4.1 DATI PER RICHIESTA DI CONTATTO",
+        "description": "La gestione di richieste di contatto, proposte attraverso la compilazione di form presenti su questo sito internet comporta l’acquisizione di dati personali dell’interessato/utente.",
+        "itemize": {
+          "item1": {
+            "title": "Finalità del trattamento (art.13, par. 1, lett. c), del GDPR):",
+            "description": "I dati personali raccolti vengono utilizzati all’esclusivo fine di dare riscontro alle richieste inviate, e comunicare con l’interessato nelle eventuali fasi successive. La comunicazione di alcuni dati è obbligatoria e segnalata attraverso appositi asterischi."
+          },
+          "item2": {
+            "title": "Categorie di dati personali",
+            "subItemize": {
+              "subItem1": "dati anagrafici (nome)",
+              "subItem2": "dati di contatto (indirizzo e-mail),",
+              "subItem3": "eventuali altri dati/informazioni inseriti nella richiesta."
+            }
+          },
+          "item3": {
+            "title": "Liceità del trattamento (art.13, par. 1, lett. c), del GDPR)",
+            "description": "Il trattamento viene effettuato al fine di eseguire un’attività richiesta dall’interessato (art. 6, par. 1, lett. b), del GDPR)."
+          },
+          "item4": {
+            "title": "Ambito di comunicazione (art.13, par. 1, lett. e) e f), del GDPR)",
+            "description": "I dati sono trattati esclusivamente da personale autorizzato, istruito al trattamento e adeguatamente formato. Potrebbero inoltre essere trattati da altri soggetti, coinvolti dal Titolare per finalità connesse al trattamento stesso (supporto alla gestione del sito internet; società di consulenza): tali soggetti hanno il ruolo di responsabili del trattamento e hanno sottoscritto con il Titolare specifici accordi ai sensi dell’art. 28, par. 3, GDPR. In ogni caso, i dati personali raccolti non saranno comunicati a terzi, ovvero diffusi o trasferiti al di fuori dell’Unione europea/Spazio economico europeo."
+          },
+          "item5": {
+            "title": "Modalità del trattamento (Considerando 39, GDPR)",
+            "description": "I dati personali sono trattati in modo lecito, corretto e trasparente, nel rispetto dei principi previsti dalla normativa vigente. Il trattamento dei dati personali avviene attraverso strumenti informatici e automatizzati. Tenuto conto della natura e delle caratteristiche del trattamento, il Titolare ha adottato misure tecniche e organizzative di sicurezza finalizzate a limitare o escludere i rischi di perdita dei dati, di eventuale uso illecito o non corretto, o di accesso non autorizzato."
+          },
+          "item6": {
+            "title": "Periodo di conservazione dei dati (art.13, par. 2, lett. a), del GDPR)",
+            "description": "I dati personali vengono mantenuti per il tempo necessario per la gestione della relazione con il richiedente."
+          },
+          "item7": {
+            "title": "Natura del conferimento (art.13, par. 2, lett. e), del GDPR)",
+            "description": "I dati sono conferiti facoltativamente dagli interessati. Tuttavia, il loro mancato conferimento potrà pregiudicare la gestione della richiesta e l’invio di riscontro."
+          }
+        }
+      },
+      "contactCustomersSuppliers": {
+        "title": "4.2 CLIENTI E FORNITORI E RELATIVI REFERENTI",
+        "description": "Nell’ambito dello svolgimento di attività connesse a rapporti contrattuali intercorrenti con clienti e fornitori, possono essere trattati dati personali di tali soggetti.",
+        "itemize": {
+          "item1": {
+            "title": "Finalità del trattamento (art.13, par. 1, lett. c), del GDPR)",
+            "description": "I dati vengono trattati al fine di",
+            "subItemize": {
+              "subItem1": "concludere rapporti contrattuali/professionali,",
+              "subItem2": "adempiere a obblighi precontrattuali, contrattuali e normativi connessi ai rapporti in essere o da instaurare, nonché gestire le necessarie comunicazioni a ciò correlate;",
+              "subItem3": "scambiare comunicazioni in relazione al rapporto contrattuale instaurato tra le parti;",
+              "subItem4": "adempiere agli obblighi previsti da leggi, regolamenti, normative europee o ordini dell’Autorità;",
+              "subItem5": "esercitare legittimi interessi o diritti del Titolare (ad esempio: diritto di difesa in sede giudiziaria; tutela delle posizioni creditorie; ordinarie esigenze interne di tipo operativo, gestionale e contabile)."
+            }
+          },
+          "item2": {
+            "title": "Categorie di dati personali",
+            "subItemize": {
+              "subItem1": "dati anagrafici (nome, cognome, codice fiscale/partita IVA);",
+              "subItem2": "dati di contatto (numero di telefono; indirizzo e-mail/PEC; indirizzi di domicilio/sede legale);",
+              "subItem3": "dati relativi alla sfera professionale (dati relativi all’azienda per cui l’interessato opera);",
+              "subItem4": "dati bancari e di pagamento."
+            }
+          },
+          "item3": {
+            "title": "Liceità del trattamento (art.13, par. 1, lett. c), del GDPR)",
+            "description": "Le attività di trattamento per tali finalità sono compiute sulla scorta di varie condizioni di liceità: per l’adempimento di contratti o di misure precontrattuali (art. 6, par. 1, lett. b), del GDPR); per l’adempimento di obblighi legali (art. 6, par, 1, lett. c), del GDPR); per il perseguimento di legittimi interessi del Titolare del trattamento (es: esercizio o difesa di diritti in sede giudiziale o stragiudiziale) (art. 6, par. 1, lett. f), del GDPR)."
+          },
+          "item4": {
+            "title": "Ambito di comunicazione (art.13, par. 1, lett. e) e f), del GDPR)",
+            "description": "I dati sono trattati esclusivamente da personale autorizzato e istruito al trattamento, e adeguatamente formato. Potrebbero inoltre essere trattati da altri soggetti, coinvolti dal Titolare per finalità connesse al trattamento stesso (es: consulenti competenti; ecc.). In alcuni casi, tali soggetti hanno il ruolo di responsabili del trattamento e hanno sottoscritto con il Titolare specifici accordi ai sensi dell’art. 28, par. 3, GDPR. In casi specifici (es: indagini e accertamenti), i dati personali potranno essere messe a disposizione delle autorità competenti. In ogni caso, i dati personali non saranno comunicati a terzi, ovvero diffusi o trasferiti al di fuori dell’Unione europea/Spazio economico europeo."
+          },
+          "item5": {
+            "title": "Modalità del trattamento (Considerando 39, GDPR)",
+            "description": "I dati personali sono trattati in modo lecito, corretto e trasparente, nel rispetto dei principi previsti dalla normativa vigente. Il relativo trattamento avviene attraverso strumenti informatici e cartacei. Tenuto conto della natura e delle caratteristiche del trattamento, il Titolare ha adottato misure tecniche e organizzative di sicurezza finalizzate a limitare o escludere i rischi di perdita dei dati, di eventuale uso illecito o non corretto, o di accesso non autorizzato."
+          },
+          "item6": {
+            "title": "Periodo di conservazione dei dati (art.13, par. 2, lett. a), del GDPR)",
+            "description": "I dati sono conservati per il tempo strettamente necessario per l’adempimento di obblighi contrattuali o normativi."
+          },
+          "item7": {
+            "title": "Natura del conferimento (art.13, par. 2, lett. e), del GDPR)",
+            "description": "Il conferimento dei dati è obbligatorio per l’adempimento delle finalità sopra descritte"
+          }
+        }
+      },
+      "navigationData": {
+        "title": "4.3 DATI di navigazione",
+        "description": "I sistemi informatici e le procedure software preposte al funzionamento di questo sito web acquisiscono, nel corso del loro normale esercizio, alcuni dati personali la cui trasmissione è implicita nell’uso dei protocolli di comunicazione di Internet. In questa categoria di dati rientrano gli indirizzi IP o i nomi a dominio dei computer utilizzati dagli utenti che si connettono al sito, gli indirizzi in notazione URI (Uniform Resource Identifier) delle risorse richieste, l’orario della richiesta, il metodo utilizzato nel sottoporre la richiesta al server, la dimensione del file ottenuto in risposta, il codice numerico indicante lo stato della risposta data dal server (buon fine, errore, ecc.) e altri parametri relativi al sistema operativo e all’ambiente informatico dell’utente.",
+        "itemize": {
+          "item1": {
+            "title": "Finalità del trattamento (art.13, par. 1, lett. c), del GDPR)",
+            "description": "Questi dati vengono utilizzati al solo fine di ricavare informazioni statistiche sull’uso del sito e per controllarne il corretto funzionamento. I dati potrebbero inoltre essere utilizzati per l’accertamento di responsabilità in caso di ipotetici reati informatici ai danni del sito (legittimi interessi del titolare)."
+          },
+          "item2": {
+            "title": "Liceità del trattamento (art.13, par. 1, lett. c), del GDPR)",
+            "description": "Il trattamento è necessario per il perseguimento di legittimi interessi del Titolare del trattamento alla sicurezza del proprio sistema informativo, e alla valutazione dell’uso del sito internet e del relativo funzionamento (art. 6, par. 1, lett. f), del GDPR)."
+          },
+          "item3": {
+            "title": "Ambito di comunicazione (art.13, par. 1, lett. e) e f), del GDPR)",
+            "description": "I dati sono trattati esclusivamente da personale autorizzato e istruito al trattamento, e adeguatamente formato. Potrebbero inoltre essere trattati da altri soggetti, coinvolti dal Titolare per finalità connesse al trattamento stesso (es: supporto alla gestione dei sistemi informativi; del presente sito internet). In alcuni casi, tali soggetti hanno il ruolo di responsabili del trattamento e hanno sottoscritto con il Titolare specifici accordi ai sensi dell’art. 28, par. 3, GDPR. I dati potrebbero essere comunicati alle autorità competenti, in casi specifici. In ogni caso, i dati personali non saranno comunicati a terzi, ovvero diffusi o trasferiti al di fuori dell’Unione europea/Spazio economico europeo."
+          },
+          "item4": {
+            "title": "Modalità del trattamento (Considerando 39, GDPR)",
+            "description": "I dati personali sono trattati in modo lecito, corretto e trasparente, nel rispetto dei principi previsti dalla normativa vigente. Il relativo trattamento avviene attraverso strumenti informatici e automatizzati. Tenuto conto della natura e delle caratteristiche del trattamento, il Titolare ha adottato misure tecniche e organizzative di sicurezza finalizzate a limitare o escludere i rischi di perdita dei dati, di eventuale uso illecito o non corretto, o di accesso non autorizzato."
+          },
+          "item5": {
+            "title": "Periodo di conservazione dei dati (art.13, par. 2, lett. a), del GDPR)",
+            "description": "I dati sono di norma conservati per l’espletamento delle finalità sopra indicate, per brevi periodi di tempo, a eccezione di eventuali prolungamenti connessi ad attività di indagine."
+          },
+          "item6": {
+            "title": "Natura del conferimento (art.13, par. 2, lett. e), del GDPR)",
+            "description": "Il conferimento dei dati è implicito nell’accesso e nella navigazione del sito internet."
+          }
+        }
+      },
+      "cookie": {
+        "title": "4.4 COOKIE",
+        "description": "Per ulteriori informazioni generali sui cookie e sulla loro abilitazione e disabilitazione, consultare il documento"
+      }
     },
-    "section5": {
-      "line1": "FINALITÉ DU TRAITEMENT",
-      "line2": "Les données sont collectées et traitées aux fins suivantes :",
-      "line3": "Exécution des contrats et passation des marchés",
-      "line4": "Envoi de lettres d'information et de communications commerciales",
-      "line5": "Service à la clientèle"
-    },
-    "section6": {
-      "line1": "BASE JURIDIQUE DU TRAITEMENT",
-      "line2": "Le traitement des données personnelles est basé sur :",
-      "line3": "Exécution d'un contrat",
-      "line4": "Consentement de l'utilisateur",
-      "line5": "Obligations légales"
-    },
-    "section7": {
-      "line1": "CONSERVATION DES DONNÉES",
-      "line2": "Les données sont conservées aussi longtemps qu'elles sont nécessaires aux fins pour lesquelles elles ont été collectées. En cas de demande d'effacement, nous y donnerons suite rapidement."
-    },
-    "section8": {
-      "line1": "DROITS DE LA PERSONNE CONCERNÉE",
-      "line2": "Les utilisateurs ont le droit de:",
-      "line3": "Accéder à vos données",
-      "line4": "Demande de rectification ou d'annulation",
-      "line5": "Opposition au traitement des données",
-      "line6": "Pour exercer vos droits, veuillez nous contacter à l'adresse suivante"
-    },
-    "section9": {
-      "line1": "TRANSFERT DE DONNÉES",
-      "line2": "Sauf indication contraire, nous ne transférons pas de données à caractère personnel à des pays tiers ou à des organisations internationales."
-    },
-    "section10": {
-      "line1": "LES MESURES DE SÉCURITÉ",
-      "line2": "Nous prenons des mesures de sécurité appropriées pour protéger les données personnelles contre l'accès non autorisé ou le traitement illégal."
-    },
-    "section11": {
-      "line1": "MODIFICATIONS DE LA POLITIQUE",
-      "line2": "LES PROMESSES se réserve le droit de modifier cette politique. Toute modification sera publiée sur cette page."
-    },
-    "section12": {
-      "line1": "PLAINTE AUPRÈS DE L'AUTORITÉ COMPÉTENTE",
-      "line2": "En cas de violation des droits, une plainte peut être déposée auprès de l'Autorité de protection des données."
-    },
-    "section13": {
-      "line1": "CONTACTS",
-      "line2": "Pour plus d'informations, veuillez nous contacter à l'adresse suivante"
+    "rightsData": {
+      "title": "5. DIRITTI DELL’INTERESSATO (GDPR artt. 15-22)",
+      "description": "In ogni momento, l’interessato potrà esercitare i seguenti diritti:",
+      "itemize": {
+        "item1": "chiedere la conferma della sussistenza di attività di trattamento di propri dati personali.",
+        "item2": "ottenere le indicazioni circa le finalità del trattamento, le categorie dei dati personali, i destinatari o le categorie di destinatari a cui i dati personali sono stati o saranno comunicati e il periodo di conservazione (o, se non sia possibile, l’indicazione dei criteri che consentano di determinarlo).",
+        "item3": "ottenere la rettifica e la cancellazione dei dati.",
+        "item4": "ottenere, alle condizioni e nei casi previsti dalla normativa vigente, la limitazione del trattamento.",
+        "item5": "ottenere, nei casi previsti dalla normativa vigente, la portabilità dei dati, ossia riceverli da un titolare del trattamento, in un formato strutturato, di uso comune e leggibile da dispositivo automatico, anche al fine di trasmetterli ad altro titolare del trattamento senza impedimenti.",
+        "item6": "nei casi previsti dalla normativa vigente, opporsi al trattamento in qualsiasi momento ed anche nel caso di trattamento per finalità di marketing diretto.",
+        "item7": "proporre un reclamo al Garante per la protezione dei dati personali, secondo le modalità previste da questa autorità."
+      },
+      "description2": {
+        "text1": "Le richieste vanno rivolte al Titolare del trattamento scrivendo all’indirizzo email",
+        "text2": "per i trattamenti descritti."
+      },
+      "updateDataDoc": "Questo documento informativo è aggiornato al 21/10/24"
     }
   }
 }
