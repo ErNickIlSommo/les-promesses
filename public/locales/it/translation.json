@@ -339,7 +339,9 @@
     },
     "whichCookieWeUse": {
       "title": "QUALI COOKIE UTILIZZA QUESTO SITO?",
-      "text": "Questo sito utilizza cookie tecnici, diretti o di terze parti, finalizzati a garantire il corretto funzionamento del sito, senza dei quali la stessa navigazione non sarebbe possibile; in particolare risulta utilizzato il seguente cookie: i18nextLng, tecnico, utilizzato per memorizzare la lingua scelta dall'utente per navigare nel sito web. I cookie sopra descritti vengono tutti raccolti ed analizzati in forma anonima ed aggregata. Infine viene escluso in ogni forma l’utilizzo di cookie di profilazione."
+      "text": "Questo sito utilizza cookie tecnici, diretti o di terze parti, finalizzati a garantire il corretto funzionamento del sito, senza dei quali la stessa navigazione non sarebbe possibile; in particolare risulta utilizzato il seguente cookie:",
+      "cookie": "i18nextLng",
+      "text2": "tecnico, utilizzato per memorizzare la lingua scelta dall'utente per navigare nel sito web. I cookie sopra descritti vengono tutti raccolti ed analizzati in forma anonima ed aggregata. Infine viene escluso in ogni forma l’utilizzo di cookie di profilazione."
     },
     "socialNetworkCookie": {
       "title": "COOKIE DI SOCIAL NETWORK",

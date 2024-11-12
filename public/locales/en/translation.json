@@ -295,55 +295,57 @@
   },
   "cookies": {
     "title": "COOKIE POLICY",
-    "subtitle": "Informativa sul trattamento dei dati personali (art. 13 GDPR 2016/679)",
+    "subtitle": "Notice to data subjects on the processing of personal data (art. 13 GDPR 2016/679)",
     "intro": {
-      "text1": "Questa informativa sull'utilizzo dei cookie sul sito web",
-      "text2": "è resa all'utente in attuazione del provvedimento del Garante per la protezione dei dati personali dell'8 maggio 2014 \"Individuazione delle modalità semplificate per l'informativa e l'acquisizione del consenso per l'uso dei cookie\";  si rimanda alla",
-      "text3": "di questo sito, egualmente redatta nel rispetto di art. 13 del Regolamento UE 2016/679, per la definizione di Titolare del trattamento, Responsabile della protezione dei dati, modalità e finalità del trattamento, conferimento dei dati ed esercizio dei diritti dei soggetti interessati."
+      "text1": "This notice on the use of cookies on the website",
+      "text2": "is given to the user to comply with the General Security Measure of the Italian Data Protection Authority of 8 May 2014 \"Simplified Arrangements to Provide Information and Obtain Consent Regarding Cookies\";  reference is made to the document",
+      "text3": "published on this website, equally drawn up in compliance with art. 13 of EU Regulation 2016/679, to appoint Data Controller, Data Protection Officer, methods and purposes of processing, transfer of data and rights of the data subjects."
     },
     "whatAreCookie": {
-      "title": "CHE COSA SONO I COOKIE?",
-      "text": "I cookie sono stringhe di testo di piccola dimensione che un sito web può inviare, durante la navigazione, al dispositivo interessato, sia esso un pc, un notebook, uno smartphone, un tablet etc.; di norma, i cookie sono conservati direttamente sul browser utilizzato per la navigazione. Lo stesso sito web che li ha trasmessi, poi può leggere e registrare i cookie che si trovano sullo stesso dispositivo per ottenere informazioni di vario tipo. I cookie sono usati per differenti finalità: esecuzione di autenticazioni informatiche, monitoraggio di sessioni, memorizzazione di informazioni su specifiche configurazioni riguardanti gli utenti che accedono al server, ecc. Ulteriori informazioni sui cookies sono reperibili su"
+      "title": "WHAT ARE COOKIES?",
+      "text": "Cookies are small text files that the website may send, during navigation, to the device concerned, be it a computer, notebook, smartphone, tablet, etc.; cookies are normally stored directly on the browser used to navigate. The same website that sent them can then read and register the cookies that are found on the same device to obtain information of various type. Cookies are used for different purposes: performance of IT authentication, monitoring of sessions, storage of information on specific configurations regarding the users accessing the server, etc. Additional information on cookies is available on"
     },
     "whyWeUseCookie": {
-      "title": "PERCHÉ USIAMO I COOKIE?",
-      "text": "Questo sito internet potrebbe utilizzare i cookie per diversi motivi. In alcune parti del nostro sito i cookie sono essenziali e senza di essi non si potrebbe essere in grado, ad esempio, di richiedere i nostri servizi. Siamo sempre alla ricerca di modi per migliorare il nostro sito internet e per rendere più facile la conoscenza dei nostri servizi. Pertanto per noi è importante capire come si utilizza il nostro sito."
+      "title": "WHY DO WE USE COOKIES?",
+      "text": "This internet site may use cookies for different reasons. In some parts of our site, cookies are essential and without them some of our services cannot be requested. We are constantly seeking new ways to improve our website and to make the knowledge of our services easier. Therefore, it is important for us to understand how our website is used."
     },
     "howManyCookieExist": {
-      "title": "QUANTI TIPI DI COOKIE ESISTONO?",
+      "title": "HOW MANY TYPES OF COOKIES ARE THERE?",
       "section1": {
-        "text1": "Esistono due macro-categorie fondamentali, con caratteristiche diverse:",
-        "intersection": "e",
-        "text2": "I cookie tecnici sono generalmente necessari per il corretto funzionamento del sito web e per permettere la navigazione; senza di essi potrebbe accadere di non visualizzare correttamente le pagine oppure di utilizzare alcuni servizi. Per esempio, un cookie tecnico è indispensabile per mantenere l'utente collegato durante tutta la visita a un sito web, oppure per memorizzare le impostazioni della lingua, della visualizzazione, e così via."
+        "text1": "There are two fundamental macro categories with different characteristics:",
+        "intersection": "and",
+        "text2": "Technical cookies are generally necessary for the proper functioning of the website and to enable browsing; without them it may happen that some pages are not displayed correctly or some services are not available.  For example, a technical cookie is indispensable to keep the user connected during the entire visit of a website or to store the settings of language, visualization and so on."
       },
       "section2": {
-        "intersection": "I",
-        "text": "possono essere ulteriormente distinti in:",
+        "intersection": "",
+        "text": "can be further subdivided into:",
         "itemize": {
-          "item1": "cookie di navigazione o sessione, che garantiscono la normale navigazione e fruizione del sito web;",
-          "item2": "cookie di funzionalità, che permettono all'utente la navigazione in funzione di una serie di criteri selezionati (ad esempio, la lingua, i prodotti selezionati per l'acquisto) al fine di migliorare il servizio reso allo stesso;",
-          "item3": "cookie analitici, assimilati ai cookie tecnici ed utilizzati direttamente dal gestore del sito per raccogliere informazioni, in forma aggregata, sul numero degli utenti e su come questi visitano il sito stesso."
+          "item1": "navigation or session cookies that ensure standard navigation and use of the website;",
+          "item2": "feature cookies that allow the users to navigate according to a series of selected criteria (e.g. language, the products selected for buying) with the aim of improving the service provided to users;",
+          "item3": "analytical cookies, comparable to technical cookies and used directly by the website manager to gather aggregated information about the number of users and how they visit the website."
         }
       },
       "section3": {
-        "text1": "I cookie tecnici possono essere anche forniti da terze parti (cd. “",
-        "text2": "”), e possono corrispondere a tutte le tipologie indicate sopra gestite in forma anonima ed aggregata, oppure in forma che consenta di identificare i navigatori dei siti internet, anche se occasionali."
+        "text1": "Technical cookies may also be provided by third parties (referred to as “",
+        "text2": "”) and may correspond to all the types given above, they may be managed in aggregated and anonymous form or in a form enabling the identification of website visitors, including if occasional."
       },
       "section4": {
-        "text1": "Esistono infine anche i",
-        "text2": "che hanno il compito di profilare l'utente, e vengono utilizzati al fine di inviare messaggi pubblicitari in linea con le preferenze manifestate dallo stesso durante la sua navigazione."
+        "text1": "Finally, there are also ",
+        "text2": "that have the purpose of profiling users and are used to send advertising messages in line with the preferences shown by the same during browsing."
       },
-      "b1": "cookie tecnici",
-      "b2": "cookie di terza parte.",
-      "b3": "cookie di profilazione"
+      "b1": "technical cookies",
+      "b2": "third-party cookies",
+      "b3": "profiling cookies"
     },
     "whichCookieWeUse": {
-      "title": "QUALI COOKIE UTILIZZA QUESTO SITO?",
-      "text": "Questo sito utilizza cookie tecnici, diretti o di terze parti, finalizzati a garantire il corretto funzionamento del sito, senza dei quali la stessa navigazione non sarebbe possibile; in particolare risulta utilizzato il seguente cookie: i18nextLng, tecnico, utilizzato per memorizzare la lingua scelta dall'utente per navigare nel sito web. I cookie sopra descritti vengono tutti raccolti ed analizzati in forma anonima ed aggregata. Infine viene escluso in ogni forma l’utilizzo di cookie di profilazione."
+      "title": "WHAT COOKIES DOES THIS WEBSITE USE?",
+      "text": "This website uses technical cookies, director of third parties, aimed at ensuring the proper functioning of the website without which browsing would not be possible; in particular, the following cookie is used:",
+      "cookie": "i18nextLng",
+      "text2": ", technical, used to memorize the language chosen by the user to navigate the website. The above-described cookies are all gathered and analysed in aggregate and anonymous form. Instead the use of profiling cookies is excluded."
     },
     "socialNetworkCookie": {
-      "title": "COOKIE DI SOCIAL NETWORK",
-      "text": "Sono cookie che permettono al profilo dell’utente presente su social network di interagire con il presente sito. Si tratta di cookie non sono indispensabili per il funzionamento di questo sito internet. L'utilizzo più comune è quello finalizzato alla condivisione dei contenuti. Per la gestione delle informazioni raccolte da \"terze parti\" è disciplinata dalle relative che possono essere verificate all’interno degli stessi social network."
+      "title": "SOCIAL NETWORK COOKIES",
+      "text": "They are cookies that enable the user profile present on social networks to interact with this website. These cookies are not indispensable for the functioning of this internet site. The most common use of such cookies is to facilitate the sharing of content. The management of the information collected from \"third parties\" is governed by the relevant policies that may be checked on social networks themselves."
     }
   }
 }
