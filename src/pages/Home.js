@@ -221,12 +221,12 @@ const Home = ({ t }) => {
               </p>
               <p className="mb-2.5 italic">{thirdStep.faqs.faq2.answer}</p>
             </div>
-            <div className="mb-10">
-              <p className="font-semibold underline">
-                {thirdStep.faqs.faq3.question}
-              </p>
-              <p className="mb-2.5 italic">{thirdStep.faqs.faq3.answer}</p>
-            </div>
+            {/* <div className="mb-10"> */}
+            {/*   <p className="font-semibold underline"> */}
+            {/*     {thirdStep.faqs.faq3.question} */}
+            {/*   </p> */}
+            {/*   <p className="mb-2.5 italic">{thirdStep.faqs.faq3.answer}</p> */}
+            {/* </div> */}
           </div>
           <div className="w-full md:w-1/4">
             <img src={abito1} className="h-full object-cover" loading="lazy" />
