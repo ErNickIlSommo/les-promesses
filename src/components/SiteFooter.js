@@ -59,15 +59,17 @@ const SiteFooter = ({ t }) => {
           >
             <img src={instagram} alt="instagram" className="h-6 w-6" />
           </a>
-          {/* <a
+          <a
             href="https://it.pinterest.com/weddingdress_les_promesses/"
             target="_blank"
           >
             <img src={pinterest} alt="pinterest" className="h-6 w-6" />
           </a>
-          <a href="https://www.tiktok.com/@les_promesses" target="_blank">
-            <img src={tiktok} alt="tiktok" className="h-6 w-6" />
-          </a> */}
+          
+          {/* <a href="https://www.tiktok.com/@les_promesses" target="_blank"> */}
+          {/*   <img src={tiktok} alt="tiktok" className="h-6 w-6" /> */}
+          {/* </a> */}
+
         </div>
       </div>
       <div className="w-full md:w-1/3 lg:w-1/6">
