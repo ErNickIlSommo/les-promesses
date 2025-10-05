@@ -32,7 +32,46 @@ const photos = [
     '/gallery/27.webp',
     '/gallery/28.webp',
     '/gallery/29.webp',
-    '/gallery/30.webp'
+    '/gallery/30.webp',
+    '/gallery/31.jpg',
+    '/gallery/32.jpg',
+    '/gallery/33.JPG',
+    '/gallery/34.jpg',
+    '/gallery/35.jpg',
+    '/gallery/36.jpg',
+    '/gallery/37.jpg',
+    '/gallery/38.jpg',
+    '/gallery/39.jpg',
+    '/gallery/40.jpg',
+    '/gallery/41.jpg',
+    '/gallery/42.jpg',
+    '/gallery/43.jpg',
+    '/gallery/44.jpg',
+    '/gallery/45.jpg',
+    '/gallery/46.jpg',
+    '/gallery/47.jpg',
+    '/gallery/48.jpg',
+    '/gallery/49.jpg',
+    '/gallery/50.jpg',
+    '/gallery/51.jpg',
+    '/gallery/52.jpg',
+    '/gallery/53.jpg',
+    '/gallery/54.JPG',
+    '/gallery/55.jpg',
+    '/gallery/56.jpg',
+    '/gallery/57.jpg',
+    '/gallery/58.jpg',
+    '/gallery/59.jpg',
+    '/gallery/60.jpg',
+    '/gallery/61.jpg',
+    '/gallery/62.jpg',
+    '/gallery/63.jpg',
+    '/gallery/64.jpg',
+    '/gallery/65.jpg',
+    '/gallery/66.jpg',
+    '/gallery/67.jpg',
+    '/gallery/68.jpg',
+    '/gallery/69.jpg',
 ]
 
 // <div className="flex flex-col md:flex-row gap-10">
@@ -45,7 +84,7 @@ const Gallery = ({ t }) => {
             <p className="text-4xl md:text-6xl text-end mb-2 font-light uppercase">{gallery.line1} <span className="font-medium">{gallery.line2}</span></p>
             <div className="bg-slate-200 w-full h-full content-[' '] animate-pulse rounded-xs"></div>
             <div className="flex flex-wrap">
-                {photos.map((src, index) => {
+                {[...photos].reverse().map((src, index) => {
                     return(
                         <LazyImage 
                             key={index} 
